@@ -1,3 +1,8 @@
+myfunction <- function() {
+  x <- rnorm(100)
+  mean(x)
+}
+
 add2 <- function(x,y) {
   x+y
 }
