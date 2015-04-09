@@ -1,0 +1,637 @@
+"","Text","id","cluster"
+"1","    TR - V10 - GAF Corp - CI performance to Search Engine ""User Mailboxes"" - 141111-246 CVLT::0203011074             ,,,",1,17
+"2","TR - V10 - Blue Cross & Blue Shield of Florida, Inc. - Windows File system One Pass incremental job failing on UpdateIndex. isam error 920 (no description) - 140929-459 CVLT::0089015563             ,,",2,3
+"3","TR - V10 - Cystic Fibrosis Trust - Question about E-Mail Analytics and Mailbox Archiver Agent - 141204-164     ,,,",3,3
+"4","TR - V10 - Action Data Communications Ltd - File Level Analytics report not populating Date Accessed column for client - 150109-465 CVLT::0324017035  ,,,",4,14
+"5","TR - V10 - Citizens Energy Group - Compliance Search Restore failing stating Outlook not installed but it is. Customer needs to cycle CV services to resolve. - 150204-315 CVLT::0203012537              ,,,",5,15
+"6","V10 - QUESTION for Altera Corporation - IO spikes on NAS device when running Data Analytics workflow, any method to throttle I/O requests? - 150115-76 CVLT::0202024791,,",6,3
+"7","TR - V10 - Cargill, Incorporated - Data Analytics Report is failing - Exception while executing the query - 150205-395 CVLT::0192024421    ,,",7,3
+"8","TR - V10 - KPN - IT Master - Service Line IT - MA offline - customer needs to delete FWConfig and push FW via GUI to bring MA online - 150204-158 CVLT::0176032017   ,,,",8,3
+"9","TR - V10 - City of Bellevue - All searches are timing out, login dialog takes very long to come up. - 150126-364 CVLT::0202024288,,",9,3
+"10","TR - V10 - ClubCorp, Inc. - Update 13490 fails to install on CommServe - RIMARY KEY constraint 'PK_DM2CloudCoreRole_coreId_roleId' - 150220-147 CVLT::0227010966,,",10,1
+"11","TR - V9 - York University - Synthetic fulls on Solaris servers are not backing up all the data on the server. - 150219-297 CVLT::0240022382       ,,,",11,11
+"12","TR - V10 - Georgia Department of Transportation - Scheduled nightly full SQL backup always fails the first time due to connectivity issues, then completes success - 150210-163 CVLT::0051016771  ,,",12,11
+"13","tR - V10 - Schreiber Foods - Job failing due to missing index files - 150226-235 CVLT::0192024930        ,,,",13,3
+"14","TR - V10 - Marion County Information Tech. - Can't get end-user search site to work with SSL / https. - 150226-264 CVLT::0203013017    ,,,",14,15
+"15","TR - V10 - Freddie Mac - Inconsistent Search Results for Notes canonical name vs smtp address - 150220-439 CVLT::0176032409   ,,,",15,15
+"16","TR - V10 - United Water - Auxcopy process crashing during content indexing. - 150305-319 CVLT::0203013055       ,,,",16,9
+"17","TR - V9 - VAULTEX UK LTD - V9 SP14 Cluster backup Pending - Check Readiness Failure - 150309-159 CVLT::0098018665   ,,,",17,3
+"18","  TR - V10 - Probuild - Since updating from SP8 to SP9+ AIX client so pending with ""Failed to establish communications"" messages. - 150218-37 CVLT::0239012638  ,,,",18,14
+"19","TR - V10 - Direct Supply, Inc. - Incremental job on alternate media agent is running Index Restore when Index is contained in Index Cache on Last Seen Media Agent - 150225-243 CVLT::0089018353   ,,",19,3
+"20","TR - V10 - Serco Inc. - Webserver going unresponsive at times causing outage of Compliance Search, WebConsole, content store etc - 150306-288 CVLT::0203013140   ,",20,7
+"21","TR - V10 - Tyco Electronics Corporation - CVD is crashing on media agent. - 150304-88 CVLT::0198013667   ,,,",21,3
+"22","TR - Dolce e Gabbana - Process needed to restore data archived on a celerra, but moved to an unsupported way to a VNXE array - 140717-115 CVLT::0057016643  ,,",22,3
+"23","TR - V10 - Dell Services Inc. - LibSnooper crash on MediaAgent - 150317-274 CVLT::0202025708 ,,,",23,3
+"24","Case Manger help points to internal IP,,,",24,3
+"25","TR - V10 - Cerner Corporation - CI jobs are failing as the expotrer.exe is timing out and batches are being lost. Patch was created previously for this. - 150319-376 CVLT::0203013173   ,,,",25,17
+"26","TR - V10 - Cerner Corporation - Slow Offline Content Indexing job performance - 150302-472 CVLT::0176033107   ,,,",26,9
+"27","Lincoln Electric - Unable to run more than one add items to a legalhold set - v10 SP9 - 150320-327,,,",27,18
+"28","QUESTION for Lincoln Electric Holdings, Inc. - Unable to run more than one add items to a legalhold set - can this behaviour be changed? - v10 SP9 - 150320-327 CVLT::0203013188 ,,",28,18
+"30","V10 - Heartland Dental Care, Inc. - Exchange Mailbox recalls are failing with RetrieveItemThroughAPI::Process --- Exception Message [Skipping retreival as da - 150126-307 CVLT::0048017317,,",30,3
+"31","TR - V10 - Manitowoc Foodservice Companies, Inc.. - When performing a Compliance Search keyword search we are getting ""Error occurred while processing the search  - 150325-443 CVLT::0203013230  ,,",31,15
+"32","TR - V10 - Devon Energy Corporation - Update Index fails after disabling sDontCopyPrevIndexOnFull - 150220-262 CVLT::0176033348 ,,,",32,3
+"33"," TR - V10 - homeaway.com - Confirm why NAS file level restore failed with ""File does not exist in backup"" before we forced an index restore - 150323-503 CVLT::0137012075 ,,,",33,3
+"34","RE: TR - V10 - Activ Foundation Inc- HDS - OnePass Synthetic Full backup fails with Fsindexrestore.exe crashing during data restore - 150226-63 CVLT::0129006846 ,,,",34,11
+"35","TR - V10 - AFB (all founds bank) - DLO clients show as disconnected from CommServe within the Backup monitor - 150225-166 CVLT::0274030511,,,",35,1
+"36","TR - V10 - Walt Disney International Ltd. - Customer wants to enable ACL collection after running first full for OnePass - 150310-191 CVLT::0098018666,,,",36,11
+"37","TR - V10 - GAF Corp - Batches are continually timing out and Ci job is not finishing. - 150326-439 CVLT::0198013787,,,",37,17
+"38","TR - V10 - Freddie Mac - Failed to prune all docs from CI server - 150401-376 CVLT::0176033625,,,",38,17
+"39","RE: TR - V10 - H&E Equipment Services, Inc. - Unable to search the FAST cloud from Compliance Search - 150324-509 CVLT::0203013328 ,,",39,15
+"40","RE: TR - V10 - San Juan Unified School District - Determine why 100 Million item count was reached and why the object count is not going down. Unbalanced data being s - 150320-233 CVLT::0203013225,,,",40,17
+"41","TR - V10 - Isle of Capri Casinos - Cannot Content Index due to waiting for pruning, same 13 AFIDs stuck in loop - 150325-540 CVLT::0202026143  ,,",41,3
+"42","RE: TR - V10 - Kelsey-Seybold Clinic - Can't delete Media Agents ""ks119is01cvwma1"" and ""ks119is01cvwma5"" from the GUI. - 150319-291 CVLT::0192025518,,,",42,3
+"43","TR - V10 - Afognak Native Corp - Index size on both nodes are over 90 million items - unbalanced data and failed to prune - 150326-415 CVLT::0176033502,,,",43,17
+"44","TR - V10 - Rusal - CI Job errors on OnChunkClose() - Failed to flush out the documents!!! - 150302-68 CVLT::0203013214,,,",44,17
+"45","RE: TR - V10 - Cerner Corporation - Assitance to determine cause of errors for Case Manager jobs - 150223-319 CVLT::0176033272,,,",45,3
+"46","TR - V10 - Freeman Health System - Legal Hold Sets Show No Contents - 150330-391 CVLT::0193013707  ,,,",46,3
+"47","TR - V10 - Lincoln Electric Holdings, Inc. - Unable to run more than one add items to a legalhold set - 150320-327 CVLT::0203013217,,",47,18
+"48","TR - V10 - Rackspace Hosting - Index cache cleanup not pruning old index cache entries - 150328-7 CVLT::0284014924 ,,,",48,5
+"49","TR - V10 - Long Run Exploration - Following V10 SP10 upgrade OnePass Synthetic Full jobs go pending - 150330-137 CVLT::0051017490,,,",49,11
+"50","TR - V10 - Assemblee Nationale du Quebec - Hyper-V file level restore requires MA to be installed on VSA proxy - 150326-190 CVLT::0072022390 ,,,",50,3
+"51","TR - V10 - NCI AdvanceMed Corporation - Tomcat on search server using all available memory after CI job is launched. - 150401-323 CVLT::0202026155,,,",51,17
+"52","TR - Sybron Dental Specialties Inc. - Customer is seeing many duplicate objects and would like Afcore enabled to eliminate the duplicates. - 150330-521 CVLT::0203013352 ,,,",52,3
+"53","TR - V10 - SM Energy Company - SynthFull and Restores referencing incorrect CCID (3) when querying ArchFiles: ""No valid data for the archive file in any Storage Po - 150328-29 CVLT::0280012414,,,",53,3
+"54","TR - V10 - CBRE - 'Find' feature doesn't always display folders - 150223-220 CVLT::0274030656,,,",54,3
+"55","RE: TR - V10 - Hospital Son Espases - Synthetic full experiencing slow throughput/performance - 150203-132 CVLT::0274030591,,,",55,11
+"111","TR - V10 - Veolia Support Services Ltd - Users are unable to view their INBOX under My Data on Web console - 140703-249    ,,,",111,13
+"112","TR - V10 - OnX Enterprise Solutions - Linux VMs Guest & Virtual Machine size incorrectly reported in Job Summary   ,,,",112,14
+"113","      TR - V10 - Olam Information Services  Pvt. Ltd. - Inconsistent Results When Browsing One-Pass Exchange Mailbox Items Via ""My Data"" In The Web Console - 140304-150 CVLT::0051009550      ,,,",113,13
+"114","TR - V9 - University of Leeds - Index information being pruned from the catalog server before it is supposed to. - 140523-108 CVLT::0240015574   ,,,",114,3
+"115","TR - V9 - UCB SA HQ - browse keeps pulling index from MA1 when the index is on MA2. We chose the MA as <ANY> when we browse, but it keeps trying to access MA1 - 140417-189 CVLT::0202017947               ,,",115,3
+"116","TR - V10 - Catlin Underwriting - Unable to retrieve some stubbed files - 140610-123 CVLT::0057013220 ,,,",116,3
+"117","TR - V9 - Department of Environment - Application crash for CVD.exe on Commserve when attempting Index restore during Mailbox Archive browse - 140702-140 CVLT::0051011069   ,,,",117,1
+"118","TR - V10 - City of Henderson - To Resolve the GUI Issue of the Recall Tapes Pop-up not coming up during a Browse and Restore Operation - 140521-385 CVLT::0227008033  ,,,",118,3
+"119","TR - V10 - S.M.I. Soluciones para el Manejo de la Informacion, C.A. - IndexingService hanging causing multiple IndexingService PIDs to spawn -- producing CreateIn - 140709-505 CVLT::0202018197   ,,",119,3
+"120","TR - V10 - Atea Danmark A/S - CVD.exe memory grows above 3 GB and causes CommServe performance to degrade - 140422-220 CVLT::0222010906 ,,,",120,1
+"121","TR - V10 - IBM Canada Limited - V10 SP6 (When running a FLA report against OnePass Agent for NetApp, IndexingService.exe consumes all virtual memory on media agen - 140605-428 CVLT::0072015387  ,,",121,3
+"122","TR - V10 - Lincoln Electric Holdings, Inc. - Critical out of hours.  CL SAP restore during a DR exercise hanging on INDEX RESTORE request for media outside of the - 140722-250 CVLT::0237008283  ,,",122,18
+"123","TR - V10 - BT Engage IT - End User - Synthetic Full backups only run at 40GB/hr when environment should be able to do far better - 140722-243 CVLT::0057014296 ,,,",123,19
+"124","TR - V10 - Pelephone - Backup Copy fails because its says there are no VM's to backup. - 140721-191 CVLT::0074010481      ,,,",124,3
+"125","TR - V10 - Department Of Land & Property Management ( LPMA ) - Unable to View the Index for NAS backups depending on how the browse is performed - 140723-10 CVLT::0137008130        ,,,",125,20
+"126","140724-180 -  Major Acct - Austrian Airlines AG  - JobSummary Report commandline options not working,,,",126,3
+"127","TR - V9 - CALIBRE GROUP LIMITED - Browsing an Exchange mailbox job from the storage policy copy results in no data displayed - 140722-15 CVLT::0148014647     ,,,",127,16
+"129","TR - V10 - Ping An Insurance (Group) Company of China, Ltd. - Determine why we cannot Download items inside Web Console. We fail with the error Failed to determine - 140729-53 CVLT::0137008125   ,,",129,13
+"130","TR - ARRIS Group, Inc. - To determine cause of indexing failures on Snap Primary copy - 140729-376 CVLT::0066005951        ,,",130,3
+"131","TR - V10 - Wayland Baptist University - Not able to browse data from storage policy - 140728-306 CVLT::0039003863,,,",131,16
+"132","TR - V10 - Silver Spring Networks - Several clients have absurdly large synth fulls - 140805-437 CVLT::0237008642,,,",132,11
+"133","TR - V10 - NIH - NLM National Library of Medicine - Infinite Volume for NFS snap backup completes, but fails to find data when browsed. - 140717-389 CVLT::0240017738 ,,",133,3
+"134","TR - V10 - DOI | US Geological Survey (USGS) - SD - Explorer plug-in not displaying status icons or Edge context menu items for protected files - 140701-393 CVLT::0074010886     ,,,",134,3
+"135"," TR - Pennsylvania Turnpike Commission - V9 SP14 - cvrecallmailbox is not working correctly when encountering a folder that contains a ""\"" in the name. - 140522-439 CVLT::0048011499 ,,,",135,3
+"136","TR - V10 - U.S. Coast Guard TISCOM - v10 SP7 Windows iDA Synth Full are failing due to FsIndexedRestore crashing during the backup. - 140806-388 CVLT::0092009217     ,,,",136,11
+"137","TR - V10 - Teck Resources Limited - Archive Index failure on MA during Oracle backup - 140807-334 CVLT::0241011426    ,,,",137,3
+"138"," TR - V9 - Telstra Corporation Limited - Not able to recall archived messages from Outlook. CVEAAddin.log reports ""Failed to open the archive File. MAPI Error 0x800 - 140714-72 CVLT::0144016702 ,,,",138,3
+"139","TR - V10 - RONA, Inc. - WebConsole file version restore does not restore the file version selected but instead restore the latest version - 140730-280 CVLT::0056007230   ,,",139,6
+"140","TR - Johns Hopkins University - Change Journal scan returning entire drive for backup - 140624-495 CVLT::0074010152   ,,,",140,3
+"141","TR - V10 - ahd hellweg data GmbH & Co. KG (SPLA) - IndexingService.exe is using 100% CPU and spawning many times - 140729-5 CVLT::0098014179 ,,,",141,2
+"142","TR - V10 - Colorado Mesa University - OES FS restore: No valid data for the archive file in any Storage Policy Copy - 140717-518 CVLT::0237008638,,,",142,16
+"143","TR - V10 - SSC - Government Operations - Job Summary Report limits protected objects reporting to 9999 objects - 140820-300 CVLT::0280009369TR - V10 - SSC - Government Operations - Job Summary Report limits protected objects reporting to 9999 objects - 140820-300 CVLT::0280009369  ,,,",143,3
+"144","TR - Kca Deutag Ltd. - v10 - Job has been aged and should not have been, need RCA for job aging - 140509-194 CVLT::0204012746                             ,,",144,3
+"145","TR - Rackspace Hosting - v10 SP7 IndexCache cleanup is not following rules configured and is pruning more than it should. - 140827-419 CVLT::0092009369,,,",145,5
+"146","Protected Objects Report exceeding Limit - SSC Government Operations,,,",146,3
+"147","TR - V10 - Baltimore County Government - Snapbackup request fails to create index - 140716-328 CVLT::0202019927  ,,,",147,3
+"148","TR - V9 - Colorado Mesa University - ImageLevel volume browse from latest or any data returned error unable to browse path….there is no data to restore. 140819-396 CVLT::0056007753,,,",148,3
+"149","TR - V10 - Elizabeth Board Of Education - v10 - Archived Email Recalls Fail with - Erase data; Skipping retreival as data is erased.. - 140814-446 CVLT::0204014151                        ,,,",149,3
+"150","TR - V10 - Towers Watson - The customer wants to know what is starting this index restore as he does not believe it is one of his jobs. - 140808-123 CVLT::0202019977     ,,,",150,3
+"152","TR - V10 - County of Wake - SharePoint Document backups fail with Index Files are missing. Job gets stuck in a loop between two Media Agents. - 140822-170 CVLT::0061020106 ,,,",152,20
+"153","TR - V10 - County of Placer - The New Index is not getting created daily, even though JMCreateIndexAfterNDaysForCA is set to 1 on the COMMSERVE server - 140820-435 CVLT::0039004065 ,,",153,3
+"154","TR - V10 - Fireman's Fund Insurance Company - Determine why NDMP job fails with index cache error after failing over to another media agent. - 140819-204 CVLT::0198009695 ,,,",154,3
+"156","TR - V10 - Saga (International) Holidays Ltd. - Large synthetic fulls - 140724-172 CVLT::0098013977            ,,,",156,11
+"158","TR - V10 - Alfa-Insurance - Users accessing Mailbox Backups from Webconsole My Data causes Index Restores from Tape although archive job is available on the Prima - 140822-218 CVLT::0051011936    ,,,",158,20
+"159","TR - DOE - Office of Legacy Management (S.M. Stoller) - v10 - Recall of some messages fail from Outlook.  Restore from GUI only returns stub - 140903-438 CVLT::0204014578 ,,,",159,10
+"160","TR - V10 - Tyco Electronics Corporation - SharePoint document level backup gets stuck at 42% - 140802-17 CVLT::0051011989              ,,,",160,3
+"161","TR - V10 - Los Angeles County (LAISD) - 100+ Windows File System incremental jobs are going pending for index restores - 140909-190 CVLT::0094006118    ,,,",161,3
+"163","TR - V10 - DaVita Inc. - V10 SP7 Browse/Index restore operation not functioning as expected when specifying media agent - 140822-324 CVLT::0072017152  ,,,",163,3
+"164","TR - V10 - NetApp OEM Customer Account - Full backup jobs spawn 100s of indexing processes on Media agent - 140910-279 CVLT::0192019958 ,,,",164,11
+"165","TR - V10 - Pingan Technology (Shenzhen) Co., LTD - Chinese characters search in  Web Console not work as expected - 140911-37 CVLT::0022001774  ,,",165,13
+"167","TR - V10 - American Family Ins Grp-Ppo - Protected VSA subclients omitted from CLA calculation: 0 bytes Guest Size during Synth Full - 140905-333 CVLT::0280009692,,,",167,11
+"168","TR - V10 - Illinois Mutual Life Insurance Company, Inc. - Some Synthetic Full Backups missing a drive - 140811-532 CVLT::0074011311   ,,",168,11
+"169","TR - V10 - Hanwha Q CELLS GmbH - Reconcile Item count between Synth Full and Full Exchange Mailbox Backup jobs. - 140826-75 CVLT::0051012197       ,,,",169,11
+"170","TR - Leggett & Platt, Inc. - Shares are locking up during v10 SP7 OnePass recalls - 140904-378 CVLT::0092009739        ,,",170,3
+"171","TR - V10 - NYC Department of Transportation - Size of drive and data reported incorrectly in Browse window - 140910-204 CVLT::0074011410  ,,,",171,3
+"172","TR - V10 - M&M/Mars Information Services - V10 SP8 When browsing a dash copy job index restore operation not functioning as expected when specifying media agent . - 140916-432 CVLT::0072017676  ,,,",172,3
+"173","TR - V10 - Citizens Energy Group - Adding items to review set does not add all emails from search results page - 140929-187 CVLT::0203010217 ,,,",173,15
+"174","TR - V10 - National Oilwell Varco - v10 SP7 Win FS iDA browse fails when the index does not exist within the index cache - 140924-450 CVLT::0092010014  ,,,",174,3
+"175","TR - V10 - Members 1st Federal Credit Union - Synthetic Full for a Windows File System client goes pending - 140818-386 CVLT::0074011555,,,",175,11
+"176","TR - V10 - Bull - S006211 - ARAG - Unable to restore Index to recover archived mail from 2013 or earlier - 141001-181 CVLT::0051012720,,,",176,3
+"177","TR - V10 - Towers Watson - Index Cache restores are starting again for no apparent reason, requesting tapes outside the library - 141002-67 CVLT::0202020910            ,,",177,3
+"179"," TR - V10 - AG Insurance - Restore from Mailbox Archiver fails when browsing via date range (super browse) with the error ""Set pending cause [There was nothing to  - 140930-223 CVLT::0207018102 ,,,",179,3
+"180","TR - V10 - Michigan State University - When browsing backups for large subclients, there are gaps between protected items - 140606-184 CVLT::0324015123,,",180,20
+"181"," TR - V10 - Hawaii Medical Service Association - Exchange Mailbox browse does not display data unless ""Show deleted items"" is checked - 140920-2 CVLT::0148015733 ,,,",181,3
+"182","TR - V9 - Bank of England - Job_Arc files occupying much od the disk space and time out errors on disks. - 141011-11 CVLT::0112010798,,,",182,3
+"183","TR - V10 - Cargill, Incorporated - Index Restore phase of a backup does not come up for air - 141014-43    ,,",183,3
+"185","TR - V10 - Conseiller en Gestion et Informatique CGI Inc. - Browsing a VSA job from a point in time for full VM restore does not show disk content - 141014-473 CVLT::0288020942       ,,,",185,3
+"186","Ticket 141015-155 - Stevens Capital Management LP - Reference copy configuration ,,,",186,3
+"188","TR - V10 - Microsoft Corporation - Customer is unable to Browse from any job in the Backup History, but can Browse and Restore from agent level - 141013-334 CVLT::0288020918,,",188,3
+"189","TR - V10 - Edge Web Hosting - Determine why fsindexrestore.exe is crashing - 140929-265 CVLT::0066007065    ,,,",189,5
+"190","TR - V10 - DISA - Enterprise Services Directorate - Outlook recall - 141010-431 CVLT::0266007379,,,",190,2
+"192","TR - V9 - UT Tyler Health Center - UpdateIndex.exe faulting application on 2012 R2 Media Agent - 140825-470 CVLT::0288021073     ,,,",192,12
+"193","TR - V9 - FORZANI GROUP - AIX backups are hanging at 25% - 140926-302 CVLT::0239010390  ,,,",193,20
+"194","TR - V10 - Norfolk Southern - Unable to browse Image-level backups by file level - 141009-440 CVLT::0074012087 ,,,",194,20
+"195","TR - V10 - Stevens Capital Management LP - Browse function creating random Start time for Reference Copy preview - 141015-155 CVLT::0057016738,,,",195,3
+"196","TR - V10 - ZODIAC Data Systems - Cannot get Cache directory state messages appear in event viewer - 140923-307 CVLT::0098016338   ,,,",196,3
+"198","TR - V10 - Hosting.com - Cannot restore files from a point in time on linux - 141020-414  ,,,",198,14
+"199","TR - V10 - National Oilwell Varco - Browse and Restore from a job does not show one of the drives - 141028-531 CVLT::0074012268 ,,,",199,3
+"200","   TR - V10 - VTB Capital - Browse and Restore reports that ""No backups found for chosen time range"" - 141023-65 CVLT::0098016400   ,,,",200,20
+"201","TR - V10 - Microsoft Corporation - BCS - SE Onsite: Several WFS jobs are going to pending with indexing error. Jobs are trying to restore index files from tapes w - 141103-476 CVLT::0129006383   ,,,",201,3
+"202","TR - V10 - Southwest Securities - Customer is looking to restore multiple db's at once to out of place location without issues. - 141029-226 CVLT::0070014523    ,,,",202,3
+"203","TR - V10 - Toumaz Group (formerly Frontier silicon group) - Restore from Edge Explorer Plugin Fails - 141017-94 CVLT::0098016466,,,",203,3
+"205","TR - V9 - John Innes Centre - Failed to archive indices on one sub-client after Additional Update 46768 (originally 46684) installed - 141015-209 CVLT::0089015513      ,,,",205,3
+"207","TR - V10 - Rentsys Recovery Services, Inc. - ""Use Any Media Agent"" option selects the last MA in the list instead of using the media agent that processed the back - 140825-367 CVLT::0185014929,,",207,3
+"209","TR - V10 - Airservices Australia - Exchange Mailbox Reference Copy job fails with error  Cannot start restore program on host  - a network error occurred or the p - 141026-43 CVLT::0148016174,,,",209,3
+"210","     TR - V10 - Atea Danmark A/S - VSA Backup Copies fail with ""No virtual machines were discovered for the subclient"" or ""failed to download CV_SnapMetadata"" due to i - 141030-248 CVLT::0126010195     ,,,",210,3
+"211","TR - V10 - KARL STORZ GmbH & Co. KG - Some Celerra one-pass stubs not recalling - 141114-119 CVLT::0098016625    ,,,",211,2
+"212","TR - V10 - KPN - IT Master - Service Line IT - Active physical node in the Cluster Client properties shows an incorrect node in the Commcell console after a clust - 140820-132 CVLT::0057016993,,,",212,17
+"213","TR - V10 - Wm. Morrison Supermarkets plc - Index restore jobs get stuck in the job controller. - 140724-82 CVLT::0324016280,,,",213,3
+"215","TR - V10 - South Tyneside Metro Borough Council - Compliance Archive Find or Browse using with filters using a specific email address not returning results. - 141028-111 CVLT::0051013983     ,,,",215,15
+"216","TR - V10 - Samsung Semiconductors Israel - IndexingService on Linux MediaAgent's generating core files regularly - 140930-157 CVLT::0154022792 ,,,",216,14
+"217","TR - V10 - RONA, Inc. - v10 SP8 Incremental OnePass jobs going pending at 69% - 141016-399 CVLT::0092010626    ,,",217,3
+"218","TR - V10 - Plattform Advertising - Questions on configuring Erase Data - 141113-499 ,,,",218,3
+"220"," TR - V10 - Medical College of Wisconsin - v10 SP7 Browsing from an incremental job gets ""browse failed due to snap mount"" issue - 141120-532 CVLT::0092011070,,,",220,3
+"221","TR - V10 - CLP Power Hong Kong Ltd - Backup Copy jobs for  Hyper-V instance  are failing with indexing errors. - 141120-57 CVLT::0126010467 ,,,",221,3
+"223","TR - GESIS Gesellschaft für Informationssysteme mbH - we need help to identify why the filedescriptors for cvd are adding up and what to do to avoid this problem. - 141111-105 CVLT::0105000269,,,",223,3
+"224","TR - Cerner Corporation - Compliance archiver job not deleting messages from mailbox. - 141111-121   ,,,",224,15
+"227","TR - V10 - UMKC - Unable to browse Incremental backups from 10/12 to 10/16 - 141203-243 CVLT::0129006595 ,,,",227,20
+"228","TR - V10 - Technicolor Australia - List media on Find results dishonours copy precedence and shows all the media from all copies - 140303-572 CVLT::0129003808,,,",228,3
+"229","TR - V10 - Simon Fraser University - Synthetic full is smaller than the regular full. - 141119-518 CVLT::0154022953 ,,,",229,11
+"230","TR - V10 - Roba Metals BV - Latest Synthetic Full job does not contain data from another Synthetic Full in same Storage Policy from January 2014 - 141120-149 CVLT::0051014431    ,,,",230,11
+"231","TR - V10 - GJ Cahill - v10 SP8 Stub recalls are requesting a tape when data should be on Primary copy - 141031-194 CVLT::0092010998 ,,,",231,3
+"232","TR - V10 - Acuity - VMware restore runs for a short time for encrypted data and then reports a seek error and fails the restore. - 141204-260 CVLT::0198011865 ,,,",232,3
+"233","V9 - Fugro Brasil - StartRestore.exe crashes on Commserve during Exchange Mailbox restore - 141127-119 CVLT::0051014718 ,,,",233,1
+"234","TR - V10 - DaVita Inc. - **BCS High Severity DR restore** 7 VMs failing - 141210-554 CVLT::0126010842 ,,,",234,3
+"235","TR - V10 - Advanced Digital Network Distribution - Users have access to files and folders belonging to others users from Webconsole - 141030-93 CVLT::0057017123,,,",235,3
+"236","TR - V10 - Seneca College of Applied Arts & Technology - **Critical DR VM failing to restore** - 141216-338 CVLT::0126010901   ,,,",236,3
+"237","RE: [dev-only] TR - V10 - StorageASP Inc - Stub Recalls fail after making subclient changes - 141124-408 CVLT::0094006815,,,",237,3
+"238","TR - V10 - Spokane Valley Fire Department - Items can still be seen in Compliance Search that were erased using the feature Erase Backed Up Data - 141218-463 CVLT::0137010959 ,,,",238,15
+"239","TR - V10 - UNITED DRUG PACKAGING GROUP LIMITED - Synthetic Full jobs for 2 Mailbox (non one-pass) sub-clients dopped in size by over 90% - 141203-307 CVLT::0051015248,,,",239,11
+"240","TR - V10 - Teck Resources Limited - v10 SP8 Stub recalls fail if a folder containing stubs is renamed - 141007-298 CVLT::0092011175       ,,,",240,3
+"241","TR - V10 - Atos - Indexcache showing as 0GB Total and Free Space in GUI - 141212-88 CVLT::0098017548   ,,,",241,3
+"243","TR - V10 - Samsung Digital - Updateindex is causing a large number of core dumps and segmentation faults when completes, this is for both AIX and Linux MediaAgents. - 141222-6 CVLT::0143010639  ,,",243,14
+"244","TR - V10 - Department of Business and Employment (NT) - Can't browse V9 VMware Backup in V10 due to missing index files - 141210-47 CVLT::0127016994               ,,,",244,3
+"246","TR - V10 - Aspen Dental - Failing to run .pst ingestion onepass job - 150108-452 CVLT::0070016239   ,,,",246,3
+"247","TR - Question for Revera - CLA - Questions / Guidance / Confirmation related to Service Pack 9 new feature Secondary Index Server - 150105-463 CVLT::0138010560   ,,,",247,3
+"248","TR - V10 - BULL MSP - Unable to see all Mailboxes when performing Browse and Recover of Lotus Notes - 141231-89 CVLT::0228010008 ,,,",248,3
+"250","V9 - QUESTION for BATS Exchange - QUESTION - Need more information about messages reported in the logs when an indexing issue pends the backup. - 150112-211 CVLT::0240021081,,,",250,3
+"251","     TR - V10 - ThyssenKrupp/ Outokumpu VDM GmbH - v10 SP9 OnePass backups fail with ""FetchIndexInfo::lookup() lookup request failed"" errors - 150112-60 CVLT::0092011635     ,,,",251,20
+"252","TR - V10 - IBM Canada Limited - Determine why workflow created by dev is not matching data from file level analytics - 140902-308 CVLT::0228009095    ,,,",252,3
+"253","TR - V10 - Setagaya City - SharePoint Document level backup goes pending at 25% with Index error ""Connection to UpdateIndex failed, possibly due to a failover"" - 141128-63 CVLT::0148017492,,",253,3
+"254","TR - Health Pointe Medical Group, Inc - V10 SP9 email one pass agent, ExMBDA.log total messages qualifying for stubbing does not match the total number from ExMBD - 150109-440 CVLT::0210020328    ,",254,3
+"255","V10 - Soluvia IT-Services GmbH - Backup Copy of SAP DB with Simpana IntelliSnap - 141216-219 ,,,",255,2
+"257","TR - V10 - CLP Power Hong Kong Ltd - Unable to Start restored Hyper-V VM with error ""The Process cannot access the file because it is being used by another process - 141128-60 CVLT::0129006619,,,",257,3
+"258","TR - V10 - SNR Denton - Browse on Image Level Backup is limited to 1000 items - 150130-39 CVLT::0127017510 ,,,",258,3
+"259","TR - V10 - CSS Corp India Pvt Ltd - Disk Usage quota graph not displayed in web console under my data when Inherit User Group Quota Settings is enabled - 150113-229 CVLT::0089017957    ,,,",259,3
+"260","TR - V10 - Samsung Digital - Media Agent Messages log flooded with ErrNo.24.(Too many open files) and requires a service restart to clear. - 141223-64 CVLT::0143010745    ,,,",260,3
+"261","TR - V10 - Department of Business and Employment (NT) - cvmountd service crashing - 150130-55 CVLT::0202024428,,,",261,3
+"262","TR - V10 - Bank of Tokyo-Mitsubishi Russia - Browsing the directory tree for a restore, cyrillic letters are changed with random numbers. - 141226-28 CVLT::0228010267 ,,",262,3
+"263","TR - V10 - Cargill, Incorporated - Customer is having issues running Data Analytics. Error:  ""A CommServe database query failed"" - 141104-252 CVLT::0066007612,,",263,1
+"264","TR - V10 - Revera - CLA - ArchiveIndex.exe crashing on specific Media agent running Windows 2003 SP2 32 bit OS when enabling Secondary Index Server functionality - 150105-463 CVLT::0138010943 ,,,",264,3
+"265","TR - V10 - Spar AG - Snap Backups on NetApp causing LUN performance degradation - 150203-170 CVLT::0236010603       ,,,",265,20
+"266","TR - V10 - Microsoft Corporation - Browse is asking for an index restore from tape even though the index cache on one of the associated Media Agents still has the - 150204-342 CVLT::0182023199  ,,,",266,3
+"267","TR - V10 - MDA - MDDC - Slow synthetic fulls, need assistance identify source of slowness - 150129-536 CVLT::0202024737,,",267,11
+"268","TR - V10 - SSC - National Security - Web Console is only displaying a maximum of 100 files in directories on Virtual Machines in the Restore Files screen. - 150113-455 CVLT::0089018073,,,",268,3
+"269","TR - Ten Brinke Groep - Index chase Is getting offline due to username being single backslash. - 150205-150 CVLT::0098018228    ,,,",269,3
+"270","RE: TR - V10 - Blue Cross & Blue Shield of Florida, Inc. - Windows File system One Pass incremental job failing on UpdateIndex. isam error 920 (no description) - 140929-459 CVLT::0089015563 ,,",270,3
+"271","TR - V10 - Mercadona - Granular browse hangs when using a Linux FRE machine - 150128-103 CVLT::0057018900 ,,,",271,14
+"272","RE: TR - V10 - State of New York - VM Backups failing to write to Library(Isilon storage). - 150216-9 CVLT::0185016976     ,,,",272,20
+"273","QUESTION for Envision Healthcare Corporation - QUESTION - /usr2 directory empty from browsing from last synthetic full (Linux) - 150218-473 CVLT::0234014146  ,,,",273,11
+"274","   TR - V10 - Donaldson Company Inc - One-pass: synthetic full job dropping files from Index. Stub recalls return:  GXHSMService.log error ""Data for 2:1020996:33:108 - 150211-101 CVLT::0274029821   ,,,",274,11
+"276","TR - V10 - GALP Energia SA. - Stub Recalls fail with ""Access Denied"" error - 141203-100 CVLT::0098017830  ,,,",276,3
+"277","TR - QUESTION for Revera - CLA - MR Request: Index Cahe move operation additional opt in option to rename original index cache location after successful move. By default - 150302-5 CVLT::0138010950  ,,,",277,3
+"278","TR - V10 - OPP ltd - Customer unable to restore an email from Public Folder Archiver due to subject line containing unusual characters - 150226-102 CVLT::0051016829   ,,,",278,3
+"280","QUESTION for Society for Human Resource Mgmt (SHRM) - Browsing Linux data that's only on Amazon storage failes to restore the index. - 150226-419 CVLT::0240022305,,,",280,3
+"281","QUESTION for York University - Synthetic fulls not backing up all data for Solaris zones. - 150219-297 CVLT::0240022197,,,",281,11
+"282"," TR - V10 - Conseiller en Gestion et Informatique CGI Inc. - ""There are no items to show in this view"" error when browsing Virtual Server backups - 150219-262 CVLT::0274030060 ,,,",282,20
+"283","TR - V10 - Civica - VM corrupt after full VM restore from incremental/Synthetic full jobs | V10 SP9 - 141211-132 CVLT::0098018583,,,",283,11
+"284","TR - V10 - State of Wisconsin - Dept of Administration - VSA VM Virtual machine content browse fails with error There are no items to show in this view - 150226-383 CVLT::0056011470,,,",284,3
+"285","TR - V10 - FM LOGISTIC SERVICES - Reference copy fails with max number of items reached for this cycle - 150310-99 CVLT::0122015499    ,,,",285,3
+"286","TR - V10 - Kemira Oyj - Browse fails on job with Granular Recovery enabled - 150218-80 CVLT::0098018650,,,",286,3
+"287","TR - V10 - Pingan Technology (Shenzhen) Co., LTD - List Media cannot show correct copy name on GUI. - 150312-35 CVLT::0228010660  ,,",287,2
+"288","TR - V10 - Conseiller en Gestion et Informatique CGI Inc. - BCS Critical Severity DR full VM restore of production VM direct to VCenter is failing. - 150317-18 CVLT::0098018724 ,,,",288,3
+"289","TR - V10 - Highmark Inc. Blue Cross Blue Shield - Browse will not connect to Indexing service - cannot browse backups... - 150303-184 CVLT::0241016140 ,,,",289,20
+"290","TR - V10 - Dutch Police - ISC Noordwest (vtspn) - The customer is getting Failed to execute stored procedure and SOFTSTATE DISABLED AND CONTROLLER DEACTIVATED erro - 150219-89 CVLT::0192025007  ,,,",290,3
+"291","TR - V10 - NTT Communications Corp. - Request to Increase Client Limit to 10k - 150311-60 CVLT::0139005586,,,",291,14
+"292","TR - V10 - Activ Foundation Inc- HDS - OnePass Synthetic Full backup fails with Fsindexrestore.exe crashing during data restore - 150226-63 CVLT::0129006846,,,",292,11
+"293","Fred Hutchinson Cancer Research Center - SharePoint Site GUID changed, cannot restore data from before the GUID change. - 150316-339 CVLT::0204018516,,",293,3
+"349","TR - V10 - Lincoln Electric Holdings, Inc. - ""null"" output when exporting Email Analytics data after paginating across ""grid"" view in WebConsole - 150401-467 CVLT::0280012452,,",349,18
+"462","TR - V10 - iDirect Technologies - CVD is crashing on MA when performing any type of backup due to indexing. - 150330-364 CVLT::0202026226,,,",462,9
+"520","TR - V10 - Santa Cruz County ISD - Can we succesfully reinstall sczas88a as its own Search Engine. - 150402-360 CVLT::0203013363,,,",520,8
+"579","TR - V10 - State of MN OET - The customer is unable to delete legal hold content - 150331-309 CVLT::0330012622,,,",579,3
+"934","TR - V10 - Altus Group Income Fund - To see if anything can be done to make sure the space consumed during optimization does not go over what is available. - 140610-158 CVLT::0202016816          ,,,",934,3
+"935","TR - V10 - BlackBerry (Formerly RIM) - Legal hold initial deployment - 140526-194 CVLT::0189010206    ,,,",935,3
+"936","TR - Denver Health Medical Center - Compliance Search for exact strings returning unrelated hits - 140610-475 CVLT::0203008321                          ,,,",936,12
+"937","TR - V10 - Citizens Energy Group - Compliance Search results are not being returned when using SMTP addresses on customers new v10 webserver - 140616-402 CVLT::0203008431                         ,,,",937,15
+"938","TR - C&S Wholesale Grocers, Inc. - V10 - Content Store Recalls fail.  Recalls from the mailbox work - 140617-349 CVLT::0204012403    ,,",938,7
+"939","TR - V10 - Capquest - To prevent multiple mailbox folders from showing in Content Store - 140618-181 CVLT::0202017309     ,,,",939,7
+"940","TR - V9 - Freddie Mac -Federal Home Loan Mortgage - Date modified in Compliance Search is in the future - 140626-277 CVLT::0203008620            ,,,",940,15
+"941","TR - V10 - dennree GmbH - Unable to get results in EndUser Search after upgrade to SP7 - 140624-135 CVLT::0112009325    ,,,",941,15
+"942","TR - V10 - Airservices Australia - Determine why some email objects sent to Corporate News cannot be seen by the user mills_rz@asanet inside End User Search - 140701-61 CVLT::0137007802              ,,,",942,19
+"943","TR - V10 - Freddie Mac -Federal Home Loan Mortgage - Email Address search producing results only for user in From field, not To/CC/BCC - 140630-177 CVLT::0202017595    ,,",943,15
+"944","TR - V10 - CH2M HILL Companies, Ltd. - Offline CI is running to slow - 140630-445 CVLT::0186019280      ,,",944,17
+"945","TR - V10 - Queensland Airports Limited - Customer unable to run Offline CI job - 140706-35 CVLT::0143009514   ,,,",945,17
+"946","TR - V10 - Portland State University - Restoring NDMP data to another Windows Media Agent fails.  We can restore to data mover MA and filer. v10 SP6 - 140429-339 CVLT::0203008184           ,,,",946,3
+"947","TR - V10 - SA Power Networks (ETSA Utilities) - Media Agent CVD process hangs as cannot rotate Certificate - 140610-61 CVLT::0202017406                       ,,,",947,3
+"948","TR - V10 - AOS Cloud - Certificate issues after client machine was cloned - 140610-406 CVLT::0074010110        ,,,",948,14
+"949","TR - Qilu Securities Co., Ltd - DB2 DPF failed to allocate stream for backup after upgrading from v9 to v10 - 140525-22 CVLT::0257005759       ,,",949,2
+"955","TR - V10 - Infrastructure Ontario - Customer would like assistance setting up Afcore. v10 Sp7 - 140708-318 CVLT::0203008664        ,,,",955,3
+"956","TR - V10 - Cerner Corporation - Exporter process crashing frequently on v10 Solr CI server - 140520-466 CVLT::0203007839 ,,,",956,4
+"958","TR - V10 - Cerner Corporation - Customer is losing batches on CI jobs to Solr after going to SP7 - 140710-204 CVLT::0203008785        ,,,",958,4
+"959","TR - V10 - Mouvement Des Caisses Desjardins (le) - WFS synthetic full backup on pending at 0% - 140514-207         ,,,",959,11
+"961","TR - Denver Health Medical Center - Customer wants to have a CI Search enhancement request and possible current version creation reviewed. - 140714-457 CVLT::0062000806     ,,,",961,12
+"962","TR - V10 - E FUND MANAGEMENT CO,.LTD - Garbled characters in search preview while searching txt files that contains Chinese characters. - 140715-39 CVLT::0203008865 ,,",962,3
+"963","RE: TR - V9 - Fonterra - SAP for Oracle restore fails - continuation of previous ticket TR #140226-20. Customer is attempting to pin point network condition that causes restore failure. - CVLT::0154018269           ,,,",963,3
+"964","TR - V10 - Cerner Corporation - Determine cause of search errors and inconsistent search results - 140627-137 CVLT::0203008900     ,,,",964,15
+"965","TR - V10 - Moss Adams - Customers CI jobs are failing to his Email search engine after he added a new node. v10 SP7 - 140715-356 CVLT::0203008895      ,,,",965,17
+"968","TR - V10 - Cerner Corporation - Customer is seeing many failed items on export to pst from Compliance Search - v10 SP7 - 140716-380 CVLT::0203008925         ,,,",968,15
+"969","TR - V10 - Wessling Holding GmbH - Outlook ContentStore does not show any content - 140627-164 CVLT::0051011200        ,,,",969,2
+"970","TR - V10 - HBVB (Bauer Corporate Services) - Restore job using ports outside of Firewall Configuration - 140715-191 CVLT::0098013669      ,,,",970,3
+"971","TR - V10 - Wood Group Management Services Ltd - Duplicate GUIDs preventing WinFS/SQL client (ep-app-abacs-02) from authenticating to CS with proper certificate - 140714-122 CVLT::0280008852   ,,,",971,14
+"975","TR - V10 - DOE - Office of Legacy Management (S.M. Stoller) - CI job losing batches and poor performance - v10 sp7 - 140630-473 CVLT::0203008964  ,,,",975,10
+"976","RE: TR - V10 - Atea Danmark A/S - CVD.exe memory grows above 3 GB and causes CommServe performance to degrade - 140422-220 CVLT::0222010906        ,,,",976,1
+"977","TR - Olam Information Services  Pvt. Ltd. - Optimize failed with error, There is not enough space on the disk - V10 SP7 - 140717-89 CVLT::0203009007    ,,",977,3
+"978","TR - V10 - Komatsu America Corp. - Search time outs caused by suspected by very high Tomcat Memory usage on new read-only node - 140717-20 CVLT::0202018298       ,,,",978,17
+"979","TR - V9 - Rogers Data Centres Inc. - v9 SP14 WinFS backup receive: Unable to copy DIR_CHANGE to the CreateIndex process on MediaAgent - 140506-309 CVLT::0092007919  ,,,",979,3
+"980","TR - V10 - McCarran International Airport - Customer is getting failed to scrape archive data.  Segment count is very high post optimize. v10 SP7 - 140721-282 CVLT::0203009051  ,,,",980,3
+"982","TR - V10 - State of Montana - Getting SSO to work with Compliance Search - 140716-433 CVLT::0203008988   ,,,",982,15
+"983","TR - V10 - Tarrant Regional Water District - Assist Customer in setup of AFCore - 140718-168 CVLT::0189010989  ,,,",983,11
+"984","TR - V10 - ARRIS Group, Inc. - With DSE turned on we were able to set the streams to 18, but only one node was being used - 140625-377 CVLT::0143009439  ,",984,17
+"985","TR - V10 - Afognak Native Corp - v10 Solr Search returning hits from wrong Search engine. - 140516-299 CVLT::0203008703         ,,,",985,4
+"986","TR - V10 - NSW Crime Commission - Sharepoint doc restores from Compliance Search failing as DM2SPDocRestore.exe not starting - seeing errors in OS logs from proces - 140724-22 CVLT::0137008054,,,",986,15
+"987","IT-Lifeline, Inc. - Cannot connect to a linux client thru a proxy - 140716-420 CVLT::0236007633,,",987,14
+"989","TR - V10 - Consolidated Minerals Limited - Immediately after installing Service Pack 7 on the Web Search Server when we navigate to the Compliance Search URL we get the error “Failed  CVLT::0137007706,,,",989,8
+"990","TR - V10 - CommVault Systems, Inc. - Content Store is not returning results. - 140723-540 CVLT::0198008992,,",990,7
+"991","POC - Ping An Insurance (Group) Company of China  Multilingual CI Engine Search functionality within Webconsole ,,,",991,13
+"992","TR - V10 - State of Wisconsin - Customer would like to implement AFCore.  Data has already been pushed to the Solr Engine. v10 SP7 - 140723-508 CVLT::0203009124     ,,,",992,4
+"993","TR - V10 - Contrans Income Fund - Determine why we can not see results past 1-30-14 using end user search - 140709-462 CVLT::0192018717 ,,,",993,19
+"994","TR - V10 - Manatee County Sheriff - Assistance to enable AFCORE - 140722-421 CVLT::0186020026 ,,,",994,3
+"997","RE: TR - V9 - Harbour IT Cloud - Slow backup performance when many jobs are running and using HTTPS - 140707-569        ,,,",997,17
+"998","TR - V10 - Vita Group (Formerly Fone Zone) - After installing Service Pack 7 the Search Engine cannot be started due to Fatal Tomcat Error - 140725-81 CVLT::0137008108  ,,,",998,8
+"999","TR - V10 - Ping An Insurance (Group) Company of China, Ltd. - Compliance Search Chinese characters are being malformed and Web Console does not return correct resu - 140723-50 CVLT::0137008115     ,,",999,13
+"1000","TR - V10 - Altus Group Income Fund - Determine why timeouts are occurring on initial searches - 140725-408 CVLT::0202018617                 ,,,",1000,3
+"1001","TR - V10 - KPN - IT Master - Service Line IT - Cannot authenticate to Linux server - 140703-229 CVLT::0236007680      ,,,",1001,14
+"1008","TR - V10 - DOE - Office of Legacy Management (S.M. Stoller) - Slow Content Index Performance - 140624-328 CVLT::0203009239        ,,,",1008,10
+"1009","TR - V10 - CHS Inc. - Fast 4.3 failing w/ [FIXML has illegal UTF-8 byte sequences in cc, rclst] after SP7 update - 140729-265 CVLT::0186020230   ,,",1009,3
+"1010","TR - V10 - R.J. O'Brien & Associates - Assist With CI Node Hardware Migrations - 140728-176 CVLT::0203009186,,,",1010,17
+"1011","TR - V10 - United Water - CI jobs not pruning correctly and admin node now has ~75 Million objects listed - v10 SP7 - 140728-154 CVLT::0203009192     ,,,",1011,17
+"1012","TR - V10 - Security Bank - Allow end user to search emails after a name change - 140716-390 CVLT::0192018888 ,,,",1012,19
+"1013","TR - V10 - Cadillac Jack, Inc./ Lazer-Tron Division - Error encountered while processing search criteria. - 140723-563 CVLT::0186020238   ,,",1013,15
+"1014","TR - Lincoln Electric Holdings, Inc. - MAPI returned a wrong value for Exchange MB - 140725-284 CVLT::0205014908   ,,",1014,18
+"1015","TR - V10 - Komatsu America Corp. - Customer is not able to export Lotus notes mailbox to NSF file via compliance search. - 140708-492 CVLT::0185012382        ,,,",1015,15
+"1016","TR - V10 - FAGE USA DAIRY INDUSTRY - Exporter process still crashing on Solr server - 140414-383 CVLT::0203007109,,,",1016,4
+"1017","Packet capture shows email message in plain text (security risk) from web server to client machine -- customer suspects Content Store ,,,",1017,7
+"1018","TR - V10 - ARRIS Group, Inc. - CI jobs are causing AUXcopy.exe to crash - 140731-166 CVLT::0189011208   ,,",1018,17
+"1019","        RE: TR - V9 - Reserve Bank of Australia - Linux File system backup failing at Create Index phase with ""CreateIndex unable to read valid information from iDataAgent"" - 140725-74 CVLT::0156007522        ,,,",1019,3
+"1020","RE: TR - V10 - AOS Cloud - Certificate issues after client machine was cloned - 140610-406 CVLT::0074010110   ,,,",1020,14
+"1021","RE: TR - V10 - KPN - IT Master - Service Line IT - Cannot authenticate to Linux server - 140703-229 CVLT::0236007680   ,,,",1021,14
+"1022","TR#140729-460: Surete du Quebec         ,,,",1022,3
+"1023","TR - V10 - Cerner Corporation - Inconsistent Search Results with email addresses. - 140730-371 CVLT::0186020413     ,,,",1023,15
+"1026","RE: TR - V10 - University of Oklahoma - Incremental Windows File System backup fails with Unable to copy DIR_CHANGE to the CreateIndex process on MediaAgent - 140801-251 CVLT::0089013755             ,,,",1026,3
+"1028","TR - V10 - DOE - Office of Legacy Management (S.M. Stoller) - Legal Hold Discovery Report is inaccurate for content in hold - 140804-438 CVLT::0186020534     ,,,",1028,10
+"1029","TR - V10 - Ping An Insurance (Group) Company of China, Ltd. - In Compliance Search we are unable to download certain emails which contain Chinese Characters and we - 140805-30 CVLT::0137008240   ,,",1029,13
+"1030","TR - Service First IT - Outlook Addin ContentStore not displaying emails when offline mode is enabled. - 140805-31 CVLT::0144016679      ,,,",1030,2
+"1031","TR - V10 - City Of Brampton - Content Indexing job not running due to CVD reporting exceeding 50%, but SOLRHEALTHCHECK and dir /s confirm 50% isn't consumed - 140729-456 CVLT::0202018994   ,,",1031,9
+"1032","TR - V10 - University of Montana - Oracle IDA 'griz06-cvr', RMAN backup content not be presented in the VIEW RMAN GUI tab during or after each Oracle backup perfo - 140624-302 CVLT::0237008542         ,,",1032,3
+"1033","TR - V10 - Ping An Insurance (Group) Company of China, Ltd. - When the SQLite Database refreshes during the Offline Content Indexing Job, the Job is taking a very  - 140731-80 CVLT::0137008241      ,",1033,13
+"1034","TR - V10 - Cadillac Jack, Inc./ Lazer-Tron Division - Enable AFCORE for One-Pass backups - 140804-484 CVLT::0066006012   ,,",1034,20
+"1035","TR - V10 - Rackspace Hosting - CCM Import Fails: Arithmetic overflow error converting expression to data type int - 140722-417 CVLT::0280009019     ,,,",1035,5
+"1036","TR - V10 - Ping An Insurance (Group) Company of China, Ltd. - Unable to Offline Content Index Jobs that have been re-picked for Content Indexing.  The job goes pen - 140807-44 CVLT::0137008245,,",1036,13
+"1038","TR - V10 - Hoare Lea - DDB Seed Workflow failing - error executing command [MoveDDBClientCacheServer.exe] - 140729-253 CVLT::0186020586      ,,,",1038,3
+"1039","TR - V10 - LifeNet Health - Archived/Indexed PST's not showing up in end-user search but show in Compliance Search - 140723-531 CVLT::0202019163      ,,,",1039,15
+"1043","TR - V10 - Stericycle, Inc. - Search returns hits that don't contain the search query - 140807-465 CVLT::0186020813 ,,",1043,15
+"1044","TR - V10 - Environmental Resource Management - End user search not returning hits after updating to SP7 - 140807-241 CVLT::0203009272  ,,,",1044,19
+"1045","TR - V10 - ARUP - Data Analytics Job waiting - Does not prompt the user for the media required. Only shows no resources. - 140731-33 CVLT::0203009296,,,",1045,3
+"1047","TR - V10 - Ping An Insurance (Group) Company of China, Ltd. - Content Store does not return search results when searching Chinese strings - 140812-130 CVLT::0137008322,,",1047,13
+"1048","TR - V10 - Howard Hughes Medical Institute - CI job failing - reading linux via windows shared path / MA - v10 SP7 - 140809-27 CVLT::0203009316 ,,,",1048,12
+"1052","RE: TR - V10 - SCHUNK GmbH & Co. KG - Cannot execute pre/post scripts after upgrading to version 10 - 140810-13 CVLT::0236007983       ,,,",1052,6
+"1053","RE: TR - V10 - BT Global Services - v10 SP7 Windows File System iDA backup is failing at 25% with an error in regards to 'pre-install mode or over connections authent - 140812-416 CVLT::0092009261   ,,,",1053,3
+"1057","TR - V10 - Airservices Australia - SE seeking approval from Development to expand Air Services Australia CI nodes maximum object count from 30 million to 60 millio - 140813-34 CVLT::0137008351  ,,,",1057,17
+"1058","     TR - V10 - City of Tampa - Event Viewer keeps displaying ""not allowed to connect with built-in certificates"" for a client - 140723-293 CVLT::0089014219     ,,,",1058,14
+"1059","TR - V10 - Mouvement Des Caisses Desjardins (le) - AIX client fails to install - 140722-188 CVLT::0241011502  ,,,",1059,14
+"1060","RE: TR - V10 - Rinnai Australia - Unable to Add Clients to the Commserve with Certificate Errors - 140313-43 CVLT::0129003865  ,,,",1060,1
+"1062","TR - V10 - Farm Credit Services of America - Resolve AuxCopy.exe crash - 140805-310 CVLT::0203009420  ,,,",1062,3
+"1064","TR - V10 - Grupo Uninter - Discover why SQL backups (trans logs) are causing the CVD CPU usage to spike on the Commserve. - 140819-247 CVLT::0231009244            ,,,",1064,20
+"1065","TR - V10 - DOE - Office of Legacy Management (S.M. Stoller) - Assistance to setup Afcore - CommCell 1 - F9757 - v10 SP7 - 140815-280 CVLT::0203009381    ,,,",1065,10
+"1066","TR - V10 - El Centro Regional Medical Center - Assistance Generating extmetacore.properties - 140616-440 CVLT::0186021328,,,",1066,12
+"1067","TR - V10 - Ping An Insurance (Group) Company of China, Ltd. - Recall from outlook add in is slower than Symantec Enterprise Vault - 140815-28 CVLT::0207018084 ,,",1067,13
+"1069","TR - V10 - State of Wisconsin - To Resolve AuxCopy.exe Crashes - 140815-284 CVLT::0203009448    ,,,",1069,3
+"1070","TR - San Juan Unified School District - To consider increasing doc limit on one indexing instance for dual instance CI Cloud. - 140819-304 CVLT::0202019649  ,,,",1070,17
+"1072","TR - V10 - New Plymouth District Council - When attempting to download email from the WebConsole end users receive error message ""download failed"" - 140716-573 CVLT::0144017084,,,",1072,3
+"1073","RE: TR - V10 - Cerner Corporation - To figure out why offline content indexing is failing after multi instanced Solr CI was implemented. - 140820-156 CVLT::0203009483,,,",1073,4
+"1074","TR - V10 - Stevens Capital Management LP - Customer is recieving event alert and is concerned the document count has not changed in the event since it started - 140818-413 CVLT::0066006245  ,,,",1074,3
+"1075","TR - V10 - BAM Nuttall - Content Indexing Errors on job. (Install Files Corrupt) - 140723-111 CVLT::0112010328   ,,,",1075,9
+"1076","TR - V10 - ARUP - Unable to delete or disable schedules for Data Analytic jobs - 140730-544 CVLT::0139004452 ,,,",1076,3
+"1077","TR - V10 - ARRIS Group, Inc. - need to either raise 30 million objects per node limit and/or enable disabled nodes - 140805-410 CVLT::0185012924,,",1077,17
+"1078","TR - V10 - City of Bellevue - To allow for the  maximum  amount of Documents that can be Content Indexed on one Node. - 140806-362 CVLT::0066006250 ,,,",1078,17
+"1079","TR - V10 - UKFast - Clients with duplicate GUIDs are not being issued Client Certificates properly - 140814-113 CVLT::0324013942    ,,,",1079,14
+"1080"," Infoplex - Restore of Exchange 2007 database out of place fails with ""Error initializing XML files"" - 140819-88 CVLT::0144017087 ,,,",1080,3
+"1082","TR - V10 - Cerner Corporation - To figure out why offline content indexing is failing after multi instanced Solr CI was implemented. - 140820-156 CVLT::0203009483  ,,,",1082,4
+"1084","TR - V9 - Dell Services Inc. - After CommServe merge multiple clients and jobs are failing to start - 140822-83 CVLT::0089014399    ,,,",1084,1
+"1085","TR - V9 - Tenaska, Inc. - CVD process is crashing intermittently on Commserve: Faulting module = CVctreestd.dll - 140821-320 CVLT::0280009381 ,,",1085,1
+"1086","TR - V10 - OnX Managed Services - OnX Managed Services - VSA Restore fails at 2 hour mark - 140818-433 CVLT::0074011095  ,,,",1086,3
+"1087","Simpana 140819-395 - BlackBerry - Offline BrBackup and I/O Scan issue   ,,,",1087,3
+"1093","  TR - V10 - Defence Housing Australia - Unable to upgrade a Version 9 Media Agent DHA-P-BKA-02 to Version 10 due to the error ""Content Indexing Engine is deprecat - 140825-49 CVLT::0137008608,,,",1093,6
+"1094","TR - V10 - Freddie Mac -Federal Home Loan Mortgage - CI performance. 44 TB push underway. DSE only using 2 out of 4 CI servers and jobs status not updating. - 140821-475 CVLT::0203009515 ,,,",1094,17
+"1095","TR - V10 - Motor Trade Finances Limited - To setup AFCore on customer SOLR CI cloud DefaultSearchServerEngine Single node Cloud pdpcci02 140819-13 CVLT::0137008707 ,,,",1095,4
+"1097","Ping AN Open Issues ,,,",1097,13
+"1098","TR - V10 - Newell Rubbermaid, Inc. - Auth code required to remove dangling FAST rows - form ID 122 already applied, can't see search engines - 140829-170 CVLT::0202019993 ,",1098,3
+"1099","TR - V10 - Candu Energy Inc. - Webconsole/Compliance search site issues after changes to secure site - 140826-248 CVLT::0186021672  ,,,",1099,3
+"1101","TR - V10 - Regional Municipality of Waterloo - CI index location is incorrect in CommServe gui - customer would like this corrected - 140827-488 CVLT::0203009620  ,,,",1101,17
+"1102","TR - V10 - Manatee County Sheriff - Error encountered while processing search criteria searching against a V9 cloud - 140827-471 CVLT::0202020002,,,",1102,15
+"1103","TR - V9 - Harbour IT Cloud - Critical client backup is pending at 0% with communication error - 140730-35 CVLT::0022001717 ,,,",1103,14
+"1104","TR - V10 - DST Systems, Inc. - Multiple client backups stalled pending at 5% due to attempt to connect using BUILTIN certificates. - 140827-481 CVLT::0324014165 ,,",1104,14
+"1107","TR - V10 - GOUGH GOUGH & HAMER PROPERTIES LIMITED - Unable to upgrade a Version 9 Media Agent ""chcbac02"" to Version 10 due to the error “Content Indexing Engine i - 140901-207 CVLT::0137008812,,,",1107,6
+"1115","TR - V10 - BC Lottery Corporation - [SE Onsite] Solr Optimization not completing due to lack of disk space (1tb index / 6.2 tb disk) - 140708-249 CVLT::0203008653  ,,,",1115,4
+"1116","TR - V10 - Tarrant Regional Water District - Exports to pst from Compliance Search are resulting in a large amount of failed items but the info management job in  - 140903-199 CVLT::0203009696          ,,,",1116,11
+"1118","TR - V9 - Pier Service & Consulting GmbH - Unable to Search for items in  Complaince and End user Search - 140722-137 CVLT::0112010421  ,,,",1118,19
+"1119","TR - V10 - R.J. O'Brien & Associates - Users Groups whose data can be searched not functioning as expected. - 140826-130 CVLT::0198009703  ,,,",1119,3
+"1121","TR - V10 - VSE Corporation - Customer would like Afcore to avoid duplicates in the index.  Data has already been indexed and Zoie Merge is in place. - 140706-21 CVLT::0203009681     ,,,",1121,3
+"1122","Removal of 2 Solr Nodes from an existing Search Engine - C&S Wholesale Grocers ,,,",1122,4
+"1123","TR - V9 - The Pike Company Inc - Unable to share review set with an individual user - Compliance Search - 140829-162 CVLT::0203009709,,,",1123,15
+"1124","TR - V9 - Kimberly-Clark Corporation - When throttling on jobs fail to create index when throttling off the jobs run - 140724-511 CVLT::0189011763     ,,,",1124,3
+"1125","TR - V10 - University of Oklahoma - Incremental Windows File System backup fails with Unable to copy DIR_CHANGE to the CreateIndex process on MediaAgent - 140801-251 CVLT::0089013755,,,",1125,3
+"1127","TR - V10 - Brownsville Independent School District - Determine cause of certificate issue with client, excvarchive, and correct the issue. - 140825-202 CVLT::0227008837  ,",1127,14
+"1128","TR - V10 - Catlin Underwriting - Customer requires the ability to be able to do compliance searches using the BCC field only - 140821-178 CVLT::0112010455    ,,,",1128,3
+"1132","TR - V10 - State Auto Insurance Companies - Customer wants node marked read / write so he can index to it again. A client was deleted and the count went down to 1 - 140910-192 CVLT::0203009853,,,",1132,17
+"1133","  TR - V10 - DOE - Office of Legacy Management (S.M. Stoller) - Content Indexing job is attempting to index jobs which have CI Status of ""Expired"" - 140909-334 CVLT::0203009866  ,,,",1133,10
+"1139","TR - V10 - Crestwood Midstream Partners LP/Inergy Holdings - Cannot find Search Engine to Index data - Ci job appears to be looking at wrong cloud id - 140909-385 CVLT::0203009890 ,,,",1139,17
+"1141","TR - V10 - New Jersey Turnpike Authority - Only one user cannot search, error encountered while processing search criteria instantly; suspect GUID issue - 140911-269 CVLT::0202020351 ,,",1141,15
+"1142","TR - V10 - BlackBerry (Formerly RIM) - Increase Node limit for 1 of customers Search Engine Clouds. - 140908-237 CVLT::0185013332,,,",1142,17
+"1144","TR - V10 - New Jersey Turnpike Authority - After CS updated to SP7, v9 CI Search Engines are missing from the GUI - 140910-253 CVLT::0280009625 ,,",1144,17
+"1145","TR - V10 - Birmingham & Nottingham Universities Shared Services - Failed to delete Client. Client is a part of cloud [CIEngine_Bham_MidPlus01]. - 140910-170 CVLT::0203009879,,,",1145,14
+"1146","TR - V10 - Coastal Federal Credit Union - Determine why Power Restore of Lotus notes from Compliance Search is failing and resolve.  SE onsite. - 140915-290 CVLT::0203009981,,,",1146,15
+"1147","TR - V10 - Cerner Corporation - Compliance search is not returning about a months worth of data from multi instanced Search Engine - 140915-397 CVLT::0203009978  ,,,",1147,15
+"1148","TR - V10 - Fresno County Sheriff's Office - Search Engine Service failing to start - 140909-278 CVLT::0203009968,,,",1148,8
+"1150","TR - V10 - Veolia Support Services Ltd - Cannot CI some of the jobs - 140702-106 CVLT::0112010511           ,,,",1150,17
+"1151","TR - V10 - Bilfinger Berger SE - Export/import certificate issue on the Commserver - 140912-101 CVLT::0228008574     ,,,",1151,14
+"1154","TR - V10 - Cegeka Benelux HQ - Customer upgraded Commserve to V10 but a number of V9 clients are now failing with Authentication issues. Also one client is shown  - 140904-247 CVLT::0098015233       ,,,",1154,1
+"1156","TR - V10 - Bayerische Milchindustrie eG - Assistance to Enable AFCore on Solar - data has been indexed - Zoie is installed - 140818-87 CVLT::0203010054  ,,,",1156,3
+"1157","TR - V10 - Candu Energy Inc. - Outlook Add-in v10.0.14559 is not showing any emails in the offline content store. - 140909-453 CVLT::0048014464 ,,,",1157,7
+"1158","TR - V10 - DISA - Enterprise Services Directorate - Second Custom Compliance Search Banner not displaying. - 140916-474 CVLT::0202020686,,,",1158,2
+"1159","TR - V10 - Federated Insurance - CI job not running after installation of Service Pack 8 - 140918-197 CVLT::0203010048  ,,,",1159,8
+"1160","TR - V10 - CA Office of Inspector General - To determined if Search Engine can be returned to consistent state after software removed from node during move of ind - 140917-313 CVLT::0203010039,,,",1160,8
+"1162","TR - V10 - Cerner Corporation - Aux copy process crashing on MA during heavy Content Indexing load - v10 SP8 - 140920-16 CVLT::0203010073      ,,,",1162,9
+"1165","TR - V10 - U.S. Coast Guard TISCOM - When performing any search we are recieving ""Application Error: Error encountered while processing search criteria"" - 140917-264 CVLT::0198010124,,,",1165,15
+"1166","TR - V9 - JPS Health Network - End User Search failng for all users with this error -  Query Construction Failed - v9 SP14 - 140923-474 CVLT::0203010129   ,,,",1166,19
+"1167","TR - V10 - Revera - CLA - Backups Fail On V9 Client When 2 Instances Are Installed And There Is A Firewall In Place - 140905-43 CVLT::0126009583      ,,,",1167,20
+"1168","TR - V9 - Singapore Telecommunications Limited - File System backups are failing for a group of clients with FW config - 140923-84 CVLT::0129005932   ,,,",1168,20
+"1170","TR - V9 - Revera - CLA - CVFWD no PID & commserve hostname changed on clients - 130731-5 CVLT::0253002385 ,,,",1170,1
+"1171","TR - V10 - Connectria - Red Plaid - CVD crashing intermittenly on Commserve - 140918-252 CVLT::0280009922      ,,,",1171,1
+"1174","TR - V10 - COM DEV International Ltd. - Determine Cause of Failing Restore.  End User Search - Restore to MyMailbox - v10 - 140924-244 CVLT::0203010220 ,,,",1174,19
+"1175","TR - V9 - Unibet/North Development AB - Backup performance throughput issue - 140926-127 CVLT::0319016308   ,,,",1175,3
+"1178","TR - V10 - Telephonics Corporation - Users are missing data in Content Store. - 140924-176 CVLT::0198010239   ,,,",1178,7
+"1179","TR - Spar AG - Outlook.exe crashes when using Add-in 10.0.14559 on Windows 8.1 64-bit with Outlook 2013 32-bit - 140925-174 CVLT::0051012507   ,,,",1179,3
+"1180","TR - V10 - Denver Health Medical Center - CI performance issue.  Current performance about 1000 - 3000 docs per hour - v10 SP8 - 140924-349 CVLT::0203010223                         ,,,",1180,12
+"1182","TR - V10 - Point IT - Punch International - Getting scrape errors on CI job after upgrading to V10 SP8. FAST 4.3 :(  -- Failed to add metadata element type - 141001-104 CVLT::0203010283        ,,,",1182,3
+"1183","TR - V10 - Computer Concepts Ltd - Fail to apply SP8 to Commserve on Update#13490: Cannot insert duplicate key in object 'dbo.DM2CloudCoreRole' - 140930-524 CVLT::0280009988 ,,,",1183,1
+"1185","TR - V10 - KAESER Kompressoren GmbH - BCC is not working in compliance search. Similar to 140821-178. - 141001-157 CVLT::0203010334,,,",1185,15
+"1186","      TR - V10 - Cerner Corporation - CI streams failing with ""Unable to initialize data extractor for content indexing"" - 141001-225 CVLT::0203010250      ,,,",1186,9
+"1189","TR - V10 - Altus Group Income Fund - Need to increase the Max Nodes count for CI Search Engine - 141003-222 CVLT::0185014035,,,",1189,17
+"1190","TR - V10 - Marion County Information Tech. - To find out why the highlighting option for searches in BOL is not functioning as described. - 140905-241 CVLT::0203010296,,,",1190,3
+"1191","TR - V10 - Altus Group Income Fund - CVD (and other processes) crashing on solr index node canestcivm3 - job does not progress after CVD restarts - 141006-331 CVLT::0203010372                  ,,,",1191,4
+"1193","TR - V10 - Probuild - Solr engine intermittently fails to handle FLA report request: Unable to reach the Solr admin node - 141002-497 CVLT::0280010052   ,,,",1193,4
+"1197","TR - Spar AG - ContentStore Offline (Cached) mode is consuming large amount of memory whilst sycning - 141008-50 CVLT::0051012782     ,,,",1197,2
+"1199","TR - V10 - State of MN OET - The user is getting no results when searching against a specific user group within Compliance Search - 141009-268 CVLT::0203010430  ,,,",1199,19
+"1200","TR - V10 - Ifolor AG - Unable to set cache mode (content store) from Outlook Addin version 10.0.14559 for Outlook 2013 when using non-english locale. - 141002-332 CVLT::0207018105    ,,,",1200,7
+"1207","TR - V10 - COM DEV International Ltd. - Content Store offline mode does not appear to be completing synch - 141006-415 CVLT::0203010491 ,,,",1207,7
+"1208","TR - V10 - Cuyahoga Community College - Request script to delete an unused CI node 'cin2' - 141007-260 CVLT::0203010454,,,",1208,17
+"1209","TR - V9 - D.R. Horton, Inc. - Unable to repick 215,000 jobs for content indexing - QS_RePickJobsForContentIndexing - 140904-445 CVLT::0203010484  ,",1209,9
+"1210","TR - V10 - Capgemini Nederland - Configure Data Analytics so that the engine can read from an Aux Copy as opposed to the Primary - 140917-111 CVLT::0324015487   ,,,",1210,3
+"1211","TR - V10 - Denver Health Medical Center - Data Analytics fails due to http post [400] failure - 140908-317 CVLT::0202020371  ,,,",1211,12
+"1212","TR - V10 - Rackspace Hosting - RCA requested on activity relating to revoked CA and new CA certificate propagation - 141016-78 CVLT::0280010250 ,,,",1212,5
+"1213","TR - V10 - HealthDataInsights, Inc. - SSL connectivity issues after upgrading Virtual Server from version 9 to 10 SP 8 - 141009-335 CVLT::0092010385 ,,",1213,6
+"1215","TR - V10 - Purity IT AS - Potential issue updating firewall configuration on client when updating client name in CommServe: Inconsistent results between      ,,,",1215,14
+"1216","TR - V10 - Department of Health Victoria (Health Shared Services) - StartPrePostCmd timing out even when pre-scan script is completed - 140918-60 CVLT::0129006157 ,,,",1216,12
+"1217","TR - V10 - Department of Finance (WA) - Hardware refresh Solr Admin/Index node - V10 SP8 - 141008-47 CVLT::0198010535,,,",1217,4
+"1218","TR - Candu Energy Inc. - Compliance Search and Content Store are showing a display issue as there are extra spaces within the body of the MSG and near punctuation's - 140410-452 CVLT::0199006755 ,,,",1218,7
+"1219","TR - V10 - Plattform Advertising - CI job pending as we are having an issue initializing the CIEngine object on CI server - 141014-402 CVLT::0203010596     ,,,",1219,17
+"1220","TR - V10 - Kca Deutag Ltd. - Find out why CIServer\Temp folder is filling up with .temp files - 140828-143 CVLT::0203010548    ,,,",1220,3
+"1221","TR - V10 - Great Canadian Gaming Corporation - Updgrade of Media Agent from version 9 to version 10 failing due to error: ""Package [Content Indexing Engine] is de - 141020-398 CVLT::0138009629,,,",1221,6
+"1222","TR - V10 - Olam Information Services  Pvt. Ltd. - Compliance Search results are not being returned with few SMTP addresses - 141008-346 CVLT::0112010815,,,",1222,15
+"1223","TR - V10 - ARRIS Group, Inc. - Offline Content Indexing job fails to scrape data - 141017-283 CVLT::0202021548   ,,",1223,9
+"1227","TR - V10 - BAM Nuttall - Unable to get any Search items post the upgrade to V10. - 141014-274 CVLT::0112010977 ,,,",1227,15
+"1228","TR - V10 - Great Canadian Gaming Corporation - After upgrading CS and Media Agent to version 10 SP8 and applying update 46838 to version 9 CI server error is rece - 141021-539 CVLT::0138009665,,,",1228,6
+"1230","TR - V10 - Cerner Corporation - Reindexing jobs to new cloud - CI license limit hit and customer believes jobs not pruning from the index - 141014-474 CVLT::0203010644                    ,,,",1230,17
+"1235","TR - V10 - Stemilt Growers Inc. - Customer Would Like To Do A Hardware Refresh On An Existing Solr CI Node - 141008-132 CVLT::0203010681          ,,,",1235,4
+"1238","TR - V10 - MYOB Australia Pty Ltd - Customer wants to associate more than 1 storage policy to their CI Cloud - 141015-65 CVLT::0137010087  ,,,",1238,16
+"1239","TR - V10 - City of Pasadena ITSD - Unable to access the login page on Windows 2012 R2 WebSearch Server.  We see the error Failed to load domains from server, ser - 141028-468 CVLT::0137010122,,",1239,3
+"1240","TR - V10 - Medio Banca Innovation Services S.C.p.A. - Searches from WebConsole fail with error, ""We're sorry something went wrong please try again."" Enduser and co - 140729-89 CVLT::0203009816,,",1240,2
+"1244","RE: TR - V10 - Advanced Travel Partners UK Ltd - Customer added additional DNS entry for webserver and Content store appears to still be looking at the non public DNS - 141028-159 CVLT::0203010782 ,,,",1244,3
+"1245","TR - V10 - Citizens Energy Group - Restore to My Mailbox from End User search failing - Mailbox archiver is installed - Logs showing Unable to get the Exchange In - 141022-332 CVLT::0203010796  ,,,",1245,19
+"1247","TR - V10 - JBS - End User Search does not return email items from prior to SP8 install - 141021-505 CVLT::0202021838      ,,,",1247,19
+"1248","TR - V9 - Connectria - 2 Linux clients failing to register during install - 141016-358 CVLT::0238013015  ,,,",1248,14
+"1249","TR - V9 - State of Oregon - State Data Center - DDB Backups failing with indexing errors - Failed to receive FSICreateIndexStartFileXfer message, Error [0x900000C - 141017-281 CVLT::0203010650 ,,",1249,20
+"1250","Digital Simplistics, TR 140905-343 : Intermittent pre-scan script disconnect error causing the start of the backup to be delayed.    ,,",1250,3
+"1251","TR - V10 - SSC - National Security - CommCell Readiness Report always shows a failure for HP-UX Clients - 140813-159 CVLT::0228008522,,,",1251,3
+"1252"," TR - V10 - Austrian Airlines AG - Email Analytics report generating an error ""Input string was not in a correct format"". - 141028-289 CVLT::0231010167 ,,,",1252,3
+"1253","TR - V10 - Sybron Dental Specialties Inc. - CI Preview and Content Store show email with incorrect format - 141029-441 CVLT::0203010820   ,,,",1253,7
+"1255","TR - V10 - Bombardier Recreational Products, Inc. - Ci jobs do not progress after updating to SP8. - 141015-439 CVLT::0198010914 ,,",1255,17
+"1257","TR - V10 - Lincoln Electric Holdings, Inc. - After running searches the Form field is missing from certain emails. - 141006-128 CVLT::0198010905       ,,",1257,18
+"1261","   TR - V10 - Bulletproof Networks - Unable to restore to clients with a firewall after changing the MediaAgent client name from ""bp-pmdh-cvma-02-random"" to ""bp-pmdh- - 140926-56 CVLT::0137010219   ,,,",1261,14
+"1262","TR - V10 - UBS - Following a rename of the V10 Commserve Name and Hostname all V9 Clients fail backups with Authentication issue. - 141031-107  ,,,",1262,1
+"1265","TR - V10 - Munich Re America Services - AIX6.1  client failing backups and check Readiness - 141001-465 CVLT::0239010586     ,,,",1265,20
+"1268","TR - V10 - Landeshauptstadt München - Baureferat - Hochbau H94 - Search Engine not visible in the GUI after the Updates are installed: - 141030-70 CVLT::0112011277,,,",1268,8
+"1271","TR - V10 - Pacificsource Health Plan - Getting no search hits in compliance search - 141106-2 CVLT::0203010916   ,,,",1271,15
+"1272","TR - V10 - ESRI Canada Limited - CI Index location in gui incorrect after move of index to vm - 141106-382 CVLT::0203010931 ,,,",1272,17
+"1275","TR 141017-202 - Install updates failed,,,",1275,3
+"1277"," TR - V10 - MTA - Inspector General - Aux copy job fails with error ""Failed to decrypt data: wrong decryption key."" - 141016-419 CVLT::0200015085 ,,,",1277,8
+"1278","TR - V10 - Joint Staff - Content indexing job failing - Invalid ReadStartOffset - 141107-112 CVLT::0203010973 ,,,",1278,9
+"1279","TR - Lincoln Electric Holdings, Inc. - Outlook Add-in with content store fails to load. - 141022-287 CVLT::0205017400 ,,",1279,18
+"1281","TR - V10 - City Of Brampton - To determine why batches are being lost. - 141030-218 CVLT::0202022325 ,,,",1281,17
+"1284","TR - V10 - Lincoln Electric Holdings, Inc. - Inconsistent search results using email address field and multiple keywords - Compliance Search - 141030-274 CVLT::0203011053 ,,",1284,18
+"1285","TR - Lincoln Electric Holdings, Inc. - Fix issue with Outlook Add-in causing outlook to crash - 141022-287 CVLT::0205017667    ,,",1285,18
+"1286","TR - V10 - Healthshare NZ - Identify \ confirm and resolve high CPU usage on CommServ (sqlservr.exe process). Suspect it is related to Content store operations - 141111-41 CVLT::0138009870     ,,,",1286,3
+"1288","TR - V10 - Wake Forest University Baptist Medical Center (WFUBMC) - Virtual Server backup pending because network receive failed.  The network connection was lost - 141013-162 CVLT::0089015589,,,",1288,12
+"1289","TR - V10 - DOE - Office of Legacy Management (S.M. Stoller) - All subclients are being automatically selected for Content Indexing for Storage Policy back-06 - 140923-533 CVLT::0203011128   ,,,",1289,10
+"1290","TR - V10 - Freddie Mac - Export to NSF from Compliance Search completes but nsf is empty - 141112-383 CVLT::0203011095  ,,,",1290,15
+"1294","TR - V10 - Airservices Australia - Customer needs to delete Content Indexing from job 913750 - 141113-4 CVLT::0137010488 ,,,",1294,9
+"1295","TR - V8 - Hua Xia Bank Co., Limited - be able to backup production oracle DBs - EvMgrC error for physical node - 141114-77 CVLT::0253009526  ,,",1295,17
+"1296","TR - V10 - Dolce e Gabbana - CI jobs failing.  Batches are being lost and timing out. - 141111-171 CVLT::0203011135         ,,,",1296,17
+"1297","RE: TR - V9 - Vocus Communications - Discover why CVD is repeatedly crashing as reported in the OS Event logs, which is not allowing backups to run. - 141114-56 CVLT::0231010305 ,,",1297,20
+"1298","TR - V10 - Smurfit Kappa Group IS Nederland BV - Unable to view content store items in offline mode. We are able to see the contents in online mode - 141013-120 CVLT::0207018123 ,,,",1298,7
+"1299","TR - V10 - New Jersey Turnpike Authority - Compliance Search - in some cases hits from Fast and Solr and in other cases only Solr. - 141031-292 CVLT::0203011145,,,",1299,4
+"1300","TR - V10 - State of Texas Legislative Budget Board - To determion cause of eDiscovery repport failure - 141113-145 CVLT::0066007506 ,,,",1300,3
+"1301","TR - V10 - M&M/Mars Information Services - SP8 update fails on 13490: Cannot insert duplicate key in object 'dbo.DM2CloudCoreRole' - 141113-384 CVLT::0280010626 ,,,",1301,3
+"1302","TR - V9 - Heritage Capital Corporation - Compliance Search not returning hits for distribution lists when searching email addresses - 141106-460 CVLT::0203011220          ,,,",1302,15
+"1303","TR - V10 - Rusal - Email body does not show in Outlook ContentStore but does show in WebConsole My Data - 141111-87 CVLT::0051013653          ,,,",1303,2
+"1305","TR - V10 - R.J. O'Brien & Associates - Customer would like Afcore enabled.  Data has already been pushed to Solr. - 141118-288 CVLT::0203011235      ,,,",1305,4
+"1308","TR - V10 - Dimont and Associates - Compliance Search page not reachable and Webserver URL's improperly populated in CI-Node's properties - 141112-471 CVLT::0185015145,,,",1308,15
+"1309","TR - V10 - Maniilaq Association - CI job failing with Unable to set up Content Indexing pipeline - Solr health check error - exception java.lang.NullPointerExcept - 141118-340 CVLT::0203011272,,,",1309,4
+"1310","TR - V10 - PVH Wholesale Corp. - Unable to log in to compliance search with domain credentials. Appears to be issue w/ nameserver but logins to CommServe gui work - 141118-456 CVLT::0203011261,,,",1310,15
+"1312","TR - V10 - University of Dayton - MediaAgent Offline due to MediaManager communicating on ports outside of firewall config - 141114-201 CVLT::0202022535,,,",1312,3
+"1313","TR - V10 - WORLEYPARSONS LIMITED - SQL Backups hang indefinitely until kill/suspended even after VDI Timeout count completes. - 141013-114 CVLT::0061021600  ,,,",1313,20
+"1314","TR - Soluvia IT-Services GmbH - Solaris Intellisnap clients create millions of temp files - 141112-131 CVLT::0128000852 ,,,",1314,2
+"1316","TR - V10 - American Family Ins Grp-Ppo - Linux / Oracle client backups fail when client side deduplication is enabled after upgrade to Service pack 8 - 141120-183 CVLT::0066007636 ,,,",1316,14
+"1317","TR - V10 - DaVita Inc. - The cvfwd process ceases to function after ~24 hours - 141031-383 CVLT::0240019987  ,,,",1317,3
+"1319","TR - V10 - Lincoln Electric Holdings, Inc. - Compliance Search for word welders is producing the word welder.  They want an exact match. - 141112-401 CVLT::0203011308                    ,,",1319,18
+"1335","TR - C&S Wholesale Grocers, Inc. - Content Store offline mode - Local cache is not responding, Failed to get the status - 141124-211 CVLT::0214017162    ,",1335,7
+"1336","TR - V10 - Connecticut General Assembly - Tomcat services are failing to start for new installation during SP 8 update - 141202-278 CVLT::0176029087,,,",1336,8
+"1337","TR - V10 - Dimont and Associates - SOLR CI Search Engine No longer shows in GUI.  New CI Jobs go pending - 141125-484 CVLT::0185015485,,,",1337,4
+"1338","TR - V10 - City Of Brampton - Offline Content Indexing jobs run for a very long time and show 0.00GB/Hr throughput and 0% complete. - 141118-427 CVLT::0203011494 ,,,",1338,9
+"1339","TR - V10 - Ameris Bank - CI performance slow after updating to V10/SP8 - 141117-215 CVLT::0203011402             ,,,",1339,17
+"1340","TR - V10 - Byrnecut Australia Pty Ltd (formerly Byrnecut Mining) - Offline Content Indexing Jobs are performing poorly.  Customer is achieving approx. 4605 objects  - 141120-5 CVLT::0137010737  ,,,",1340,9
+"1341","TR - V8 - Layered Tech - cv8.0 Client failing check readiness and backups - loses all connectivity when added to MA's FW files - 141105-200 CVLT::0240020168  ,,,",1341,20
+"1342","TR - ExxonMobil Corporation - Decoupled clients presently generating >60+ Million DNS queries across the infrastructure since deployment - 141201-263 CVLT::0154022810  ,,,",1342,3
+"1343","TR - V10 - E-Moscow - mysql create instance error - 141120-171 CVLT::0238013708   ,,,",1343,3
+"1345","TR - V10 - Alfa-Insurance - To get the File Analytics Report Working - 140917-155 CVLT::0228009539   ,,,",1345,3
+"1346","TR - V10 - Danube IT Services GmbH - RCA on Data Analytics job failure: error executing proc ""ArchGetVsaAnalyticsWorkInfo"" - 140929-190 CVLT::0280010952,,,",1346,3
+"1347","TR - V10 - TeleTech Holdings, Inc. - Jobs not expiring from Content Indexing per configured Content Indexing retention. - 141202-397 CVLT::0176029185 ,,",1347,9
+"1348","TR - V10 - Lincoln Electric Holdings, Inc. - Issues when scheduling Data Analytics job: 2 Schedules Created and Unable to Delete Analytics schedules - 141201-155 CVLT::0182021308 ,,",1348,18
+"1355","TR - V9 - UbiStor Capital LLC - Throttling is not following rules when rules change - 141208-181 CVLT::0066007896        ,,,",1355,3
+"1356","TR - V10 - SDDC EIP - No backups are running - 141209-175 CVLT::0021003901   ,,,",1356,20
+"1357","TR - V10 - OneNeck IT Services - Rebooting Witness servers stopped CV services on the production Commserve - 141020-459 CVLT::0280011022   ,,,",1357,1
+"1358",": TR - V10 - Hitachi Data Systems Corporation - nEnableSessionBlacklist does not block unauthorized sessions - 141208-395 CVLT::0280011029  ,,,",1358,3
+"1359","TR - V10 - E-Moscow - 1-Touch incremental backup with Synthetic Full fails - 141124-168 CVLT::0238013707  ,,,",1359,11
+"1360","TR - V10 - TAL - Client dc1prd263 impacted post install with check readiness failures with MediaAgents, however cvping tests work fine and cvnetworktesttool comple - 141211-40 CVLT::0154023258 ,,",1360,14
+"1365","TR - V10 - Cerner Corporation - Batches are timing out on multi instanced CI  install - 141203-494 CVLT::0203011636 ,,,",1365,17
+"1366","TR - V10 - Smurfit Kappa Group IS Nederland BV - Imported PST do not always show in ContentStore unless local cache is rebuilt - 141210-90 CVLT::0051014709      ,,,",1366,2
+"1367","TR - V10 - Delta Community Credit Union - CI job continues to fail with ""Content indexing services may be down. - 141209-199 CVLT::0198012022,,,",1367,9
+"1368","TR - V10 - Max Weishaupt GmbH - Customer looking to relax the 1 Storage Policy per CI Cloud Limit. (Approved by Product Management) - 141210-290 CVLT::0185015907,,,",1368,16
+"1369","TR - BAM Nuttall - Remove duplicates from SOLR ENGINE. - 141112-243 CVLT::0112012369          ,,,",1369,4
+"1370","       TR - V10 - Cerner Corporation - Case manager job ""error Failed ""Error encountered on the MA while processing this sub-client."" - 141212-232 CVLT::0176029599       ,,,",1370,3
+"1371","TR - Question for Plan-b Limited - Is it possible to configure Data Analytics for MA that does not contain the indexes - 141211-371 CVLT::0143010619,,,",1371,3
+"1372","TR - V10 - Acer - Inside Compliance Search when we search the From Field we get different results based on SMTP Address and Short Name - 141002-94 CVLT::0137010790 ,,,",1372,15
+"1373","***CRITICAL AFTER HOURS ESCALATION*** RE: TR - V10 - DST Systems, Inc. - Multiple jobs in archive index phase - 141214-21 CVLT::0324016743 ,,",1373,3
+"1374","TR - V9 - Question for Adobe Systems Incorporated Primary - Can we prevent pre-scan script from being rerun on job retry? - 141218-296 CVLT::0233016819,,,",1374,3
+"1375","TR - V10 - ExxonMobil Corporation - V10 Sp7 (Windows 2008 client unable to register CS certificate) - 141117-10 CVLT::0072019967   ,,,",1375,14
+"1377","TR - V10 - Question for Acuity - Question: Configuring SSL for WebServer (CVSearchSvc) - 141210-434 CVLT::0280011194  ,,,",1377,3
+"1378","TR - V10 - Lincoln Electric Holdings, Inc. - Items still appearing searchable in Compliance Search index and Content Store after they have aged out/jobs no longer - 141212-352 CVLT::0198012141 ,,",1378,18
+"1379","TR - V10 - City of Pasadena ITSD - Customer requesting to adjust the CI Document Count Alert threshold to 28 Million instead of 20 Million Docs. - 141219-350,,,",1379,17
+"1380","TR - C&S Wholesale Grocers, Inc. - Specific machines with Content Store installed sending unusual amounts of traffic\packets to webconsole - 141210-479 CVLT::0214017653 ,,",1380,7
+"1381","TR - V10 - International Flavors & Fragrances Inc. - Data Analytics job failing with curl_easy_perform failed. err:[7] - 141202-479 CVLT::0176029520,,,",1381,3
+"1382","TR - V10 - State of MN OET - Need AFCORE enabled after ingestion. - 141119-519 CVLT::0202023397,,,",1382,3
+"1383","TR - V10 - DMB Associates Inc - Customer is seeing failed items on their Legal holds created using Complaince Search. - 141124-495 CVLT::0203011528,,,",1383,3
+"1384","TR - V10 - Gibraltar Industries, Inc. - CI Performance - to find out if anything else can be done to enhance the Offline Content Indexing job performance - 141203-364 CVLT::0203011898       ,,",1384,9
+"1385","TR - V10 - St Cloud Hospital - CI performance issue. ETA on CI job not acceptable to customer - 141202-438 CVLT::0203011749      ,,,",1385,17
+"1386","TR - V10 - Probuild - The customer is running data analytics but receiving error commserve database query failed - 141120-404 CVLT::0203011690,,,",1386,1
+"1387","TR - V10 - Aviall, Inc. - CI job not running. Issue with cloud id. New HDS Solr CI install.  SE onsite - 141211-287 CVLT::0203011754,,",1387,4
+"1388","TR - V10 - CommVault Systems - Australia - WebConsole \ complianceSearch search results not showing displaying some Japanese words in the previews - 141212-30 CVLT::0138010391  ,,,",1388,15
+"1390","TR - V10 - Klikon Solutions - Data Analytics completed successfully but Email Analytics data is not reported in Web Console - 141027-475,,,",1390,13
+"1393","TR - V10 - Rackspace Hosting - 'Unknown exception' (AppMgrService) and 'Max thread count reached' (CVD) caused many jobs to go pending until service restart - 141222-45 CVLT::0280011351  ,,,",1393,5
+"1395","TR - V10 - Communisis - DDB Backups failing with SSL authentication errors - 141219-68 CVLT::0176029828   ,,,",1395,20
+"1396","TR - V10 - NTT Communications Corp. - CS Services stopped and restarted by itself - witness server is configured. - 141211-81 CVLT::0228009961 ,,,",1396,14
+"1397","Re: TR - V10 - Computer Concepts Ltd - CvFailover.jar does not start automatically - 141104-508 CVLT::0139005132         ,,,",1397,3
+"1400","TR - V10 - CALIDA AG - Ci Jobs are continually failing with cannot get pinter to the Content Indexing Engine. - 141203-95 CVLT::0198012395  ,,,",1400,9
+"1401","TR - V10 - TEVA Israel - Customer is setting up domain with account from another domain and cannot. - 141028-228 CVLT::0227009964,,,",1401,3
+"1402","TR - Question for Ping An Insurance (Group) Company of China, Ltd. - Need to search journal email based on end user account (domain user or user group) - 141223-32 CVLT::0143010688   ,,",1402,19
+"1408","TR - V10 - United Water - When content store is in offline mode, email is not displayed - 150105-166 CVLT::0203012046,,",1408,7
+"1410","TR - V10 - ARRIS Group, Inc. - After P2V uninstall done on admin node causing searches to fail and client deconfigured - SE Onsite - 150107-292 CVLT::0176030319 ,,",1410,17
+"1411","TR - V10 - Cerner Corporation - CI job erroring with http post request failed and exporter process crash - 150108-186 CVLT::0203012074  ,,,",1411,17
+"1415","TR - V10 - Connecticut General Assembly - The remote server returned an error: (400) Bad Request - error encountered while processing search criteria - 141226-65 CVLT::0176029989   ,,,",1415,8
+"1419","RE: TR - V10 - United Water - When content store is in offline mode, email is not displayed - 150105-166 CVLT::0203012046,,",1419,7
+"1421","TR - V10 - Sbi General Insurance Co Limited - CI job failing as Auxcopy.exe crashing - Unable to communicate with Auxiliary Copy process on MediaAgent - 150113-164 CVLT::0203012176 ,,,",1421,8
+"1423","TR - V10 - U.S. Coast Guard TISCOM - Offline Content Indexing job continues to show Failed to commit the documents pushed - 141120-307 CVLT::0202023910,,,",1423,9
+"1424"," RE: TR - V10 - Cianbro Corporation - Determine Why End User ""To My Mailbox"" Restores Do Not Function - 150113-434 CVLT::0203012227 ,,,",1424,19
+"1425","TR - V10 - Revera - CLA - After revoking the CA certificate multiple clients couldn’t connect back to the Commserve. - 150113-41 CVLT::0139005279,,,",1425,1
+"1426","TR - V10 - Raymond James & Associates - Jobs not runnign properly since upgrading to 10.0sp8 - 150113-142 CVLT::0324017042 ,,,",1426,3
+"1427","TR - V10 - Klikon Solutions - When a user logs into Web Console without All Associations and clicks on ""Reports"" and clicks on ""Email Analytics"" we get the error "" - 141219-43 CVLT::0137011385,,,",1427,13
+"1431","TR - V10 - Cerner Corporation - Case Manager filter by recipients returns no matching entries - 150119-320 CVLT::0176030695          ,,,",1431,3
+"1432","TR - V10 - Gibraltar Industries, Inc. - Assistance to enable Afcore for storage policy MA01- Archive Data - 150119-232 CVLT::0203012295 ,,",1432,16
+"1433","TR - V10 - Max Weishaupt GmbH - SSO does not work with Compliance Search Login - 141218-67 CVLT::0203012351  ,,,",1433,15
+"1434","TR - V10 - Hosts Unlimited - Offline content store not populating - 141126-292 CVLT::0051015943       ,,,",1434,7
+"1435","   TR - V10 - MYOB Australia Pty Ltd - Determine why objects content indexed to node ""aumelcvindx03"" on the 12/12/2014 after it was marked Read Only on the 10/12/2014 - 150121-7 CVLT::0138010713   ,,,",1435,17
+"1436","TR - V10 - Biomet - W3WP.exe errors on WebServer since upgrading to V10 SP9 - 150107-219 CVLT::0051015956       ,,,",1436,3
+"1437","TR - UBS - Informix restore from AIX 5.3 to 6.1 fails - 150107-222 CVLT::0233017174 ,,,",1437,3
+"1440","TR - V10 - Telstra - Non-Productised MSP Solutions - CPU on all three nodes in the CI Cloud use 100% CPU when the Offline Content Indexing Job is run wi - 141113-36 - RESOLVED  ,,,",1440,9
+"1442","TR - V10 - New Plymouth District Council - Content Indexing job running but not indexing any docs after move of index to VM.  Batches are completing. - 141221-20 CVLT::0203012394,,,",1442,9
+"1443","TR - V10 - Martin County Florida - CI engines missing in GUI after updating to SP9 - 150121-507 CVLT::0176030894 ,,,",1443,17
+"1444","TR - V10 - Connecticut General Assembly - Search Engines tab displays no search engine - V10 SP9 - 150122-251 CVLT::0176030834  ,,,",1444,8
+"1445","RE: TR - V10 - Security Bank - Inconsistent search results for display name vs smtp address - V10 SP9 - 150116-199 CVLT::0176030827      ,,,",1445,15
+"1448","TR - V10 - San Juan Unified School District - To determine next steps and if index should be moved to another node. - 150115-346 CVLT::0176030999          ,,,",1448,17
+"1449","TR - V10 - Lincoln Electric Holdings, Inc. - After failed legal hold, need to clean up resulting folders in JobResults\DM2CacheDir, folder is not aging off after  - 150116-139 CVLT::0202024350",1449,18
+"1451","TR - V10 - Rackspace Hosting - RCA requested on backup failures: Peer rejected our certificate as revoked - 150125-23 CVLT::0280011734 ,,,",1451,5
+"1452","TR - V10 - NTT Communications Corp. - Linux File system restore failure - 150128-100 CVLT::0319020280 ,,,",1452,14
+"1453","TR - V10 - Rackspace Hosting - CS client certificate was accidentally revoked - 150128-2 CVLT::0280011771  ,,,",1453,5
+"1454","TR - V10 - CSIRO - Event Viewer showing ""Client is not allowed to connect with built-in certificates."" - 141103-46 CVLT::0127017448,,,",1454,14
+"1455","TR - V10 - Freddie Mac - During Offline Content indexing job of Domino emails auxcopy.exe crashes on Source Media agent. Issue appears identical to TR: 150113-164 - 150127-468 CVLT::0138010891 ,,,",1455,9
+"1456","    TR - V10 - Dualtec Informatica Ltda - Unable to reconfigure Download Center SOLR Engine: ""failed to start data analytics service"" - 150123-177 CVLT::0280011779    ,,,",1456,4
+"1459","TR - V10 - Fugro (USA), Inc. - v10 SP9 OnePass (Celerra) stub recalls fail after the w3wp service crashes - 150129-380 CVLT::0092011827,,",1459,3
+"1460","TR - Hydro-quebec - v10 SP9 - 150121-211 CVLT::0092011830,,,",1460,3
+"1464","TR - V10 - Salford City Council - No search results using discovery option in advance search. - 150122-107 CVLT::0112012692 ,,,",1464,15
+"1465","V10 - QUESTION for Biomet - E-Discovery Statistics Not Matching CV GUI - 150120-410 CVLT::0202024454  ,,,",1465,3
+"1466","TR - V10 - Kennewick School District - Content indexing jobs are giving error: Batches are timing out. Please check content indexing services. Source: cvindexci,  - 141229-149 CVLT::0182022937 ,,",1466,9
+"1467","TR - V10 - Catlin Underwriting - Searching for 'XCS' produces hits on 'XC' in file names, possible DQ candidate - 150129-232 CVLT::0202024449,,",1467,3
+"1469","TR - V10 - CA Office of Technology (OTECH) - Unable to load Compliance Search page during random time periods - 150120-533 CVLT::0176031205   ,,,",1469,15
+"1471","TR - V10 - Cianbro Corporation - Determine Why End User ""To My Mailbox"" Restores Do Not Function - 150113-434 CVLT::0203012227    ,,,",1471,19
+"1473","TR - V10 - Byrnecut Australia Pty Ltd (formerly Byrnecut Mining) - Customer expects better perfromance from offline Content Indexing - 150119-10 CVLT::0137011695    ,,,",1473,9
+"1476","TR - V10 - Frazer-Nash Consultancy Ltd. - Search Engine service wont start after reinstall of CI server. CIIndex is empty - 150206-204 CVLT::0203012560  ,,,",1476,8
+"1477","TR - Lincoln Electric Holdings, Inc. - Legal hold is failing - failed file statistics not updating in logs - 150204-300 CVLT::0176031324   ,,",1477,18
+"1478","TR - V10 - Martin County Florida - Compliance Search to redirect to HTTPs when accessed via webconsole - 150129-558 CVLT::0137011730,,,",1478,15
+"1479","TR - V10 - City of Kent - Escalation for possible object count increase beyond 30M million. - 150204-477 CVLT::0203012540 ,,,",1479,17
+"1480","TR - V10 - KURTZ Holding GmbH & Co. Beteiligungs KG - Tomcat service does not start. - 150122-119 CVLT::0112012839 ,,,",1480,2
+"1481","TR - V10 - Ricoh Canada Inc. - During Content Indexing jobs, AuxCopy.exe is Crashing. - 150203-412 CVLT::0198012934,,",1481,9
+"1482","V10 - Netelligent - Failed to update CommServe hostname on clients behind one-way firewall configuration - 150120-33 CVLT::0227010723 ,,,",1482,1
+"1484","TR - V10 - TSI EMPRESARIAL DE MEXICO SA de CV - Upgrade from SP7 to SP9 fails on CommServer - 150126-501 CVLT::0227010768,,,",1484,3
+"1488","TR - V10 - Wajax Limited - W3WP.exe crashing / pegging CPU utilization post SP9 upgrade. - 150127-473 CVLT::0070016926,,,",1488,3
+"1489","TR - V10 - American Family Ins Grp-Ppo - Content Indexing performance is slower then expected - 150114-524 CVLT::0176031599   ,,,",1489,9
+"1490","TR - V10 - CALIDA AG - Unable to use Quick Look from OWA as preview generation fails - 150128-294 CVLT::0051016466  ,,,",1490,3
+"1491","TR - V10 - DISA - Enterprise Services Directorate - Failed to get Sql Lite GUID db from CS. Odd error in CVD.log of Commserve at same time. - 150205-233 CVLT::0202024776 ,,,",1491,2
+"1492","TR - V10 - City of Richmond - Relax Storage Policy restriction for v10 Cloud - 150204-551 CVLT::0137011819,,,",1492,16
+"1493","TR - V10 - NorthWestern Corporation - Discrepencies in Analytics Report Values.  When viewing the extensions, the count on jpg is higher than what is displayed in - 150205-245 CVLT::0198013018 ,,",1493,3
+"1494","   TR - V10 - First American Bank - Case Manager continually fails with ""Failures encountered for all associated sub-clients. Source: fabbackup, Process: StartSynthF - 150211-463 CVLT::0198013027   ,,",1494,3
+"1495","TR - V10 - Stevens Capital Management LP - Customer would like to reverse a Search Only node to read/write which shows 0 docs but the index is 2.3TB - 150210-315 CVLT::0203012640 ,,,",1495,17
+"1496","RE: TR - V10 - CommVault Systems, Inc. - Legacy firewall information is not updated for the correct machine name on linux cluster - 150205-162 CVLT::0005000257  ,,",1496,14
+"1497","TR - V10 - American Family Ins Grp-Ppo - CVD performance/stability issue on large DLO Commserve: Max thread count [150] reached - 150204-386 CVLT::0280012012,,,",1497,1
+"1498"," TR - V10 - Schuberg Philis (Customer) - CVD crashing intermittently on Commserve due to ""heap corruption"" - 150122-144 CVLT::0280012024 ,,,",1498,1
+"1499","TR - V10 - CommVault Systems, Inc. - Legacy firewall information is not updated for the correct machine name on linux cluster - 150205-162 CVLT::0005000257,,",1499,14
+"1500","TR - V10 - Rackspace Hosting - EvmgrS is crashing when performing name change post migration - 150205-155 CVLT::0324017353,,,",1500,5
+"1501","TR - UBS - Several Solaris client machines resolve incorrectly using CVIPInfo. - 150213-92 CVLT::0154025052  ,,,",1501,14
+"1502","TR - V10 - Veolia Support Services Ltd - No preview available in webconsole - EMAILs - 150108-135 CVLT::0112013088    ,,,",1502,2
+"1504","TR - V10 - CA Office of Inspector General - Search Engine service will not start on CI server igcv03 after search engine was removed and reinstalled. - 150210-444 CVLT::0203012720,,,",1504,8
+"1506","RE: TR - V10 - Cargill, Incorporated - Data Analytics Report is failing - Exception while executing the query - 150205-395 CVLT::0192024421,,",1506,3
+"1508","TR - V10 - Savannah-Chatham School Supt - CI Job failing as batches timing out. Content indexing operation failed. Please check the log - 150211-501 CVLT::0203012735     ,,,",1508,9
+"1509","QUESTION for Munich Re America Services - Certificate issue when the Linux client machine has a year of 2019. - 150213-319 CVLT::0240021966  ,,,",1509,14
+"1510","TR - V10 - TIS (MSP) - Problems with Linux 1-Touch restore - Client is firewalled (2-way/bi-directional) and needs to use a static route to reach Commserve - 150212-138 CVLT::0154025357  ,,,",1510,14
+"1511","TR - V9 - Harbour IT Cloud - Linux file system backups are failing due to communication error between the client and the commserve - 150203-572      ,,,",1511,14
+"1515","TR - V10 - Sirius Computer Solutions - Unable to login to ComplianceSearch - 150217-279 CVLT::0193013165 ,,,",1515,3
+"1516","TR - V10 - DSV A/S - Content Indexing running very slow - V10 - 150220-85 CVLT::0112013366 ,,,",1516,9
+"1517","TR - V10 - Denver Health Medical Center - Cannot export searches to .cab file from Compliance Search.  They need the data asap for a legal matter. - 150212-491 CVLT::0203012785 ,,,",1517,12
+"1518","TR - V10 - GAF Corp - Customer would like to mark search only node read / write - 150224-190 CVLT::0203012855,,,",1518,17
+"1519","TR - V10 - C&S Wholesale Grocers, Inc. - Advanced Compliance Search methods returning diffent numbers of hits.  Same number of hits expected. - 150223-442 CVLT::0192024658  ,,",1519,15
+"1520","TR - V10 - GAF Corp - CI jobs are not progressing with error "" [http-apr-27000-exec-88] - : detect 19852524 unbalanced data"". - 150223-360 CVLT::0198013279    ,,,",1520,17
+"1521"," TR - V10 - McCarran International Airport - Compliance Search - Export to pst failing ""please check logs"" - Object reference not set to an instance of an object - 150224-280 CVLT::0203012892       ,,,",1521,15
+"1522","R - Defense Logistics Agency (DLA) – Information Operations (J6) - Encrypted email does not get put into Content store mail available as header info. - 141231-177 CVLT::0198012292,,,",1522,7
+"1523","TR - V10 - Cerner Corporation - Compliance search fails due to syntax errors in log and Error encountered while processing search criteria on Compliance page - 150223-262 CVLT::0203012865,,,",1523,15
+"1524","TR - V10 - Lennar Corporation - Determine Why AuxCopy Process Crashes During CI Jobs - 150220-368 CVLT::0193013184,,,",1524,17
+"1526","TR - V10 - Dolce e Gabbana - Search Index got corrupted - SOLR - 150216-71 CVLT::0112013382      ,,,",1526,4
+"1527","TR - V10 - KURTZ Holding GmbH & Co. Beteiligungs KG - Tomcat reaches 100% CPU for two specific jobs. - 150203-119 CVLT::0112013309  ,,,",1527,2
+"1528","TR - V10 - Turbine Engine Components Technologies Corporation - CI speed is slow on synthetic full WinFS data - 150224-306 CVLT::0202025198  ,,,",1528,11
+"1529","RE: TR - V10 - United Water - V10 SP9 (Roaming laptops not following firewall rules when on public network) - 150210-358 CVLT::0072021654   ,,,",1529,3
+"1530","TR - V10 - County of San Mateo - V10 SP8 Clients are reporting the use of v8 firewall within the DB but the clients do not have v8 firewall files - 150107-498 CVLT::0090019323 ,,,",1530,1
+"1531","TR - V10 - OPP ltd - Customer uses synth fulls and would like Afcore to eliminate duplicates - 150226-189 CVLT::0203012911     ,,,",1531,11
+"1532","TR - V10 - OPP ltd - CI Job failing to start after reinstall of MA/CI server (Failing in jobmanager)- Input XML is empty.Unserialization failed. - 150210-336 CVLT::0203012908 ,,,",1532,8
+"1533","TR - V10 - FCStone, LLC - Relax Storage Policy Association Limit for Search Engines - 150223-493 CVLT::0193013217 ,,",1533,16
+"1534","TR - V10 - Serco Inc. - Compliance search using special characters and numbers not generating expected results, returns too many hits of partial matches. - 150210-482 CVLT::0203012914,,",1534,15
+"1537","RE: TR - V10 - C&S Wholesale Grocers, Inc. - Review Set does not contain all items sent to it from Compliance Search results - 150226-429 CVLT::0203012955 ,,",1537,15
+"1538","TR - V10 - C&S Wholesale Grocers, Inc. - Download of large PST files through browser fail for ""file too large"" error. - 150227-144 CVLT::0202025268 ,,",1538,3
+"1544","TR - V10 - Clark Builders - In Outlook, ContentStore does not show any items when the 'Show only archived emails' option is enabled - 150220-403 CVLT::0182023817     ,,",1544,2
+"1546","TR - DISA - Enterprise Services Directorate - Request to expand CI nodes from 4 nodes to 6 - 150302-243 CVLT::0176032337 ,,,",1546,2
+"1547","TR - QUESTION for Zhejiang Province Human Resources and Social Security Bureau - adding 8400 to additional open ports to improve performance, but simpana restart would  - 150129-75 CVLT::0253010982  ,,",1547,3
+"1550","TR - DSV A/S - DSV -Large Index size - 150303-347 CVLT::0112013589   ,,,",1550,3
+"1551","TR - V10 - Xactware - request to increase 30 million objects-per-node threshold - 150303-399 CVLT::0062001131     ,,,",1551,17
+"1552","TR - V10 - Lincoln Electric Holdings, Inc. - On web console under email analytics. The documentation hyper link that points to BOL is broken. - 150306-344 CVLT::0198013505,,",1552,18
+"1553","TR - V10 - Komatsu America Corp. - AuxCopy.exe is crashing for Content Indexing Lotus Notes Data - 150309-279 CVLT::0176032692 ,,,",1553,9
+"1554","TR - V10 - C&S Wholesale Grocers, Inc. - Customer is asking to relax conditions to add a 10th Virtual serch engine node to Cloud Email_04_2014. - 150216-153 CVLT::0198013556 ,,",1554,17
+"1555","TR - V10 - DOE - Office of Legacy Management (S.M. Stoller) - View of manifest in Compliance Search does not work. - 150306-295 CVLT::0203013059  ,,,",1555,10
+"1556","TR - V10 - Turbine Engine Components Technologies Corporation - CI job failing as exporter process is timing out - 150304-257 CVLT::0203013032    ,,,",1556,17
+"1557","TR - V10 - DSV A/S - Newly Added CI node is not ingesting data - 150226-470 CVLT::0203013072,,,",1557,17
+"1558","TR - V10 - CSPQ - Reports not displaying the Multimedia data unless you edit customize categories - 150309-261 CVLT::0176032798  ,,,",1558,3
+"1562","TR - V10 - DOE - Office of Legacy Management (S.M. Stoller) - Unable to copy 3TB of Legal Hold Data: Jobs no longer exist at Policy level, but still show in Libra - 150309-501 CVLT::0185017384   ,,",1562,10
+"1563","TR - V10 - Future Electronics Inc - In Outlook, ContentStore does not show any items when the 'Show only archived emails' option is enabled - 150224-281 CVLT::0182024290,,",1563,2
+"1564","TR - V10 - Candu Energy Inc. - Customer continues to experience ""Failed to create stage file"" errors during Content Indexing job. - 150311-170 CVLT::0198013597,,,",1564,9
+"1565","TR - V10 - Los Angeles County (LAISD) - Compliance Search fails with 'Application encountered while processing search criteria' - 150312-13 CVLT::0176032811 ,,,",1565,15
+"1566","TR - V10 - Waterleiding Maatschappij Limburg - Identyify source on network or communication errors ( even with 1-WAY FW setupo ) for restore Job 915838 - 150313-396 CVLT::0241016071 ,,,",1566,3
+"1567","TR - V10 - DMP - Data Management Professionals - CUSTOMER - AD authentication thru Proxy for web console and commcell console not working properly - 150226-97 CVLT::0227011222,,,",1567,13
+"1568","TR - V10 - VA Region 3 - Southeast - Firewall summary tab for a client doesn't list all the machines as an outgoing route when those machines are in another Client - 150225-32 CVLT::0240022555 ,,,",1568,14
+"1569","TR - V10 - Atlantic County Administration Services - Customer is experiencing lost batches on the CI Node - 150313-251 CVLT::0182024354  ,,,",1569,17
+"1573","TR - V10 - First American Bank - Relax1 policy maximum for CI solr engine association - 150319-244 CVLT::0203013170,,,",1573,16
+"1574","TR - V10 - DOE - Office of Legacy Management (S.M. Stoller) - The manifest is not listing 3 items the customer needs. - 150317-410 CVLT::0203013157,,,",1574,10
+"1576","TR - V10 - DaVita Inc. - Errors in Data Analytics Report - 150313-357 CVLT::0192025244 ,,,",1576,3
+"1578","TR - V10 - Isle of Capri Casinos - Compliance search not returning the correct search hits - 150320-396 CVLT::0176033143 ,,,",1578,15
+"1580","TR - V10 - NCI AdvanceMed Corporation - extmetacore.properties file is not being generated when initializing SOLR - 150324-324 CVLT::0203013240,,,",1580,4
+"1581","TR - V10 - H&E Equipment Services, Inc. - Relax 1 policy max for Solr Engine Association - 150323-277 CVLT::0203013248,,",1581,16
+"1582","TR - V10 - GENERALNA DYREKCJA DROG KRAJOWYCH I AUTOSTRAD - CI Index location in gui is not updated after moving the index to a VM - 150319-151 CVLT::0112014315,,,",1582,17
+"1583","TR - V10 - Ontario Teachers' Pension Plan - AuxCopy.exe is crashing for content indexing domino mailbox. - 150401-161 CVLT::0198013856,,,",1583,9
+"1584","RE: TR - Deister- und Weserzeitung Verlagsgesellschaft mbH & Co. KG - Email attachments downloaded from ContentStore are not saved with correct format - 150303-142 CVLT::0051017269,,,",1584,2
+"1585","TR - V10 - Tarrant Regional Water District - Downloading items from review set is resulting in failed items. - 150320-134 CVLT::0062001149,,,",1585,11
+"1586","TR - V10 - Sybron Dental Specialties Inc. - End User Search - why all clients are being queried when the user performing the search is only allowed to search a fe - 150323-332 CVLT::0203013220 ,,,",1586,19
+"1587","RE: TR - V10 - Cianbro Corporation - v10 Delegate search not returning correct results. Looks like we are getting the delegate info in ExMBDAMonitor.log - 150325-419 CVLT::0203013259,,,",1587,15
+"1589","TR - V10 - Marion County Information Tech. - Unable to perform any Compliance Search as search node shows as down. - 150325-376 CVLT::0198013778,,,",1589,15
+"1591","TR - V10 - Kaspersky Lab - Requesting relaxation for CI indexing to add additional policies to existing engine. - 150327-197 CVLT::0176033465,,,",1591,17
