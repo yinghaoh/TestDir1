@@ -1,0 +1,12 @@
+Correlation,,,
+ID,First.Variable,Second.Variable,Correlation
+6,Trips.over.the.past.24.hours,Miles.traveled.today,0.970129818
+23,Annual.Member.Sign.Ups,X7.Day.Passes.Purchased,0.805048021
+24,X24.Hour.Passes.Purchased,X7.Day.Passes.Purchased,0.74510919
+12,Miles.traveled.today,Annual.Member.Sign.Ups,0.741319863
+22,Miles.traveled.today,X7.Day.Passes.Purchased,0.734834746
+11,Trips.over.the.past.24.hours,Annual.Member.Sign.Ups,0.710691234
+21,Trips.over.the.past.24.hours,X7.Day.Passes.Purchased,0.691636793
+18,Annual.Member.Sign.Ups,X24.Hour.Passes.Purchased,0.66704678
+17,Miles.traveled.today,X24.Hour.Passes.Purchased,0.568172258
+16,Trips.over.the.past.24.hours,X24.Hour.Passes.Purchased,0.469829348

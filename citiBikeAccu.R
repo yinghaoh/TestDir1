@@ -1,11 +1,11 @@
 library("car")
 
 citiBikeAccu <- function() {
-  accuData <- read.csv(file="AccumulationData.csv", head=TRUE,sep=",")
+  x <- read.csv(file="AccumulationData.csv", head=TRUE,sep=",")
   
   x = x[complete.cases(x),]
 
-  x$weekDay <- weekdays(as.Date(x$starttime))
+  x$weekDay <- weekdays(as.Date(x$Date))
   x$weekDay[x$weekDay=="Monday"] <- "1"
   x$weekDay[x$weekDay=="Tuesday"] <- "1" 
   x$weekDay[x$weekDay=="Wednesday"] <- "1" 
@@ -16,10 +16,12 @@ citiBikeAccu <- function() {
   id<-grep("^weekDay$", colnames(x))
   x[,id] <- as.numeric(x[,id])
   
-  groupResultsListByWeekDay <- printMeanAndSdByGroup(x[c(2,4,7,8,9)],x_lean[7])
-  
-  mosthighlycorrelated(x,10)
-
+  groupResultsListByWeekDay <- printMeanAndSdByGroup(x[c(2,4,7,8,9)],x[10])
+  groupResultsListByWeekDay <- cbind(groupResultsListByWeekDay[[1]],groupResultsListByWeekDay[[2]])
+  write.table(groupResultsListByWeekDay, file="groupResultsListAccu.csv", sep=",",col.names=NA)
+  corResult <- mosthighlycorrelated(x[c(2,4,7,8,9,10)],10)
+  write.table(corResult, file="corResultAccu.csv", sep=",",col.names=NA)
+  return(groupResultsListByWeekDay)
 }
 
 printMeanAndSdByGroup <- function(variables,groupvariable)

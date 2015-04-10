@@ -1,4 +1,4 @@
-Date,Trips over the past 24-hours (midnight to 11:59pm),Cumulative trips (since launch):,Miles traveled today (midnight to 11:59 pm),Miles traveled to date:,Total Annual Memberships Sold,Annual Member Sign-Ups (midnight to 11:59 pm),24-Hour Passes Purchased (midnight to 11:59 pm),7-Day Passes Purchased (midnight to 11:59 pm)
+Date,Trips over the past 24-hours,Cumulative trips,Miles traveled today ,Miles traveled to date:,Total Annual Memberships Sold,Annual Member Sign-Ups,24-Hour Passes Purchased,7-Day Passes Purchased
 1/1/2015,5792,15216843,9191,26055797,127279,10,267,11
 1/2/2015,12371,15229214,18222,26074019,127293,14,298,8
 1/3/2015,4834,15234048,6282,26080301,127300,7,96,7
